@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Triples of Letters\Triples of Letters\bin\Debug\Triples of Letters.exe.config
+E:\Users\Коцето\Desktop\Triples of Letters\Triples of Letters\bin\Debug\Triples of Letters.exe
+E:\Users\Коцето\Desktop\Triples of Letters\Triples of Letters\bin\Debug\Triples of Letters.pdb
+E:\Users\Коцето\Desktop\Triples of Letters\Triples of Letters\obj\Debug\Triples of Letters.exe
+E:\Users\Коцето\Desktop\Triples of Letters\Triples of Letters\obj\Debug\Triples of Letters.pdb

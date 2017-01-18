@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Special Numbers\Special Numbers\bin\Debug\Special Numbers.exe.config
+E:\Users\Коцето\Desktop\Special Numbers\Special Numbers\bin\Debug\Special Numbers.exe
+E:\Users\Коцето\Desktop\Special Numbers\Special Numbers\bin\Debug\Special Numbers.pdb
+E:\Users\Коцето\Desktop\Special Numbers\Special Numbers\obj\Debug\Special Numbers.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Special Numbers\Special Numbers\obj\Debug\Special Numbers.exe
+E:\Users\Коцето\Desktop\Special Numbers\Special Numbers\obj\Debug\Special Numbers.pdb
