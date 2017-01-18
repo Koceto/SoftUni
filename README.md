@@ -1,7 +1,4 @@
-SoftUni
-
-Education in Software University
-
+My education in Software University.
 
 
 1. Programming Basics
