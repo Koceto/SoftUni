@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Centuries to Nanoseconds\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe.config
+E:\Users\Коцето\Desktop\Centuries to Nanoseconds\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe
+E:\Users\Коцето\Desktop\Centuries to Nanoseconds\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.pdb
+E:\Users\Коцето\Desktop\Centuries to Nanoseconds\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.exe
+E:\Users\Коцето\Desktop\Centuries to Nanoseconds\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.pdb

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Convert Speed Units\Convert Speed Units\bin\Debug\Convert Speed Units.exe.config
+E:\Users\Коцето\Desktop\Convert Speed Units\Convert Speed Units\bin\Debug\Convert Speed Units.exe
+E:\Users\Коцето\Desktop\Convert Speed Units\Convert Speed Units\bin\Debug\Convert Speed Units.pdb
+E:\Users\Коцето\Desktop\Convert Speed Units\Convert Speed Units\obj\Debug\Convert Speed Units.exe
+E:\Users\Коцето\Desktop\Convert Speed Units\Convert Speed Units\obj\Debug\Convert Speed Units.pdb
+E:\Users\Коцето\Desktop\Convert Speed Units\Convert Speed Units\obj\Debug\Convert Speed Units.csprojResolveAssemblyReference.cache

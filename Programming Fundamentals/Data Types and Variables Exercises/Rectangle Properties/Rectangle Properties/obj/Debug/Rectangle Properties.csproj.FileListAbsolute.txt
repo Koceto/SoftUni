@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Rectangle Properties\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+E:\Users\Коцето\Desktop\Rectangle Properties\Rectangle Properties\bin\Debug\Rectangle Properties.exe
+E:\Users\Коцето\Desktop\Rectangle Properties\Rectangle Properties\bin\Debug\Rectangle Properties.pdb
+E:\Users\Коцето\Desktop\Rectangle Properties\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+E:\Users\Коцето\Desktop\Rectangle Properties\Rectangle Properties\obj\Debug\Rectangle Properties.pdb
+E:\Users\Коцето\Desktop\Rectangle Properties\Rectangle Properties\obj\Debug\Rectangle Properties.csprojResolveAssemblyReference.cache

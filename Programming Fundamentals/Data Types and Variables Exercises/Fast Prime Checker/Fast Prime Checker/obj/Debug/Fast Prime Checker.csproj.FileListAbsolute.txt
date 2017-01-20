@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Fast Prime Checker\Fast Prime Checker\bin\Debug\Fast Prime Checker.exe.config
+E:\Users\Коцето\Desktop\Fast Prime Checker\Fast Prime Checker\bin\Debug\Fast Prime Checker.exe
+E:\Users\Коцето\Desktop\Fast Prime Checker\Fast Prime Checker\bin\Debug\Fast Prime Checker.pdb
+E:\Users\Коцето\Desktop\Fast Prime Checker\Fast Prime Checker\obj\Debug\Fast Prime Checker.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Fast Prime Checker\Fast Prime Checker\obj\Debug\Fast Prime Checker.exe
+E:\Users\Коцето\Desktop\Fast Prime Checker\Fast Prime Checker\obj\Debug\Fast Prime Checker.pdb

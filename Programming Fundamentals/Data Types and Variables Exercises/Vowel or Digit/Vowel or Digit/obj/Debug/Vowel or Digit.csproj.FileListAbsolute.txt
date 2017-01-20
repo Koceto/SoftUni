@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Vowel or Digit\Vowel or Digit\bin\Debug\Vowel or Digit.exe.config
+E:\Users\Коцето\Desktop\Vowel or Digit\Vowel or Digit\bin\Debug\Vowel or Digit.exe
+E:\Users\Коцето\Desktop\Vowel or Digit\Vowel or Digit\bin\Debug\Vowel or Digit.pdb
+E:\Users\Коцето\Desktop\Vowel or Digit\Vowel or Digit\obj\Debug\Vowel or Digit.exe
+E:\Users\Коцето\Desktop\Vowel or Digit\Vowel or Digit\obj\Debug\Vowel or Digit.pdb
+E:\Users\Коцето\Desktop\Vowel or Digit\Vowel or Digit\obj\Debug\Vowel or Digit.csprojResolveAssemblyReference.cache

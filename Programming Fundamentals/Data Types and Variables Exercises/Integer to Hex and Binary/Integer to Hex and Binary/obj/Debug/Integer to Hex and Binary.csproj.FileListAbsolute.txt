@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Integer to Hex and Binary\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe.config
+E:\Users\Коцето\Desktop\Integer to Hex and Binary\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe
+E:\Users\Коцето\Desktop\Integer to Hex and Binary\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.pdb
+E:\Users\Коцето\Desktop\Integer to Hex and Binary\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.exe
+E:\Users\Коцето\Desktop\Integer to Hex and Binary\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.pdb

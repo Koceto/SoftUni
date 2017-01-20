@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Thea The Photographer\Thea The Photographer\bin\Debug\Thea The Photographer.exe.config
+E:\Users\Коцето\Desktop\Thea The Photographer\Thea The Photographer\bin\Debug\Thea The Photographer.exe
+E:\Users\Коцето\Desktop\Thea The Photographer\Thea The Photographer\bin\Debug\Thea The Photographer.pdb
+E:\Users\Коцето\Desktop\Thea The Photographer\Thea The Photographer\obj\Debug\Thea The Photographer.exe
+E:\Users\Коцето\Desktop\Thea The Photographer\Thea The Photographer\obj\Debug\Thea The Photographer.pdb
+E:\Users\Коцето\Desktop\Thea The Photographer\Thea The Photographer\obj\Debug\Thea The Photographer.csprojResolveAssemblyReference.cache

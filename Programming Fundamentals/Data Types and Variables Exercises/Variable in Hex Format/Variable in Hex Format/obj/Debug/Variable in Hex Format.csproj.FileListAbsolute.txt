@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Variable in Hex Format\Variable in Hex Format\bin\Debug\Variable in Hex Format.exe.config
+E:\Users\Коцето\Desktop\Variable in Hex Format\Variable in Hex Format\bin\Debug\Variable in Hex Format.exe
+E:\Users\Коцето\Desktop\Variable in Hex Format\Variable in Hex Format\bin\Debug\Variable in Hex Format.pdb
+E:\Users\Коцето\Desktop\Variable in Hex Format\Variable in Hex Format\obj\Debug\Variable in Hex Format.exe
+E:\Users\Коцето\Desktop\Variable in Hex Format\Variable in Hex Format\obj\Debug\Variable in Hex Format.pdb
