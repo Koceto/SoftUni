@@ -4,3 +4,5 @@
     <i>Excersises from 18.01.2017</i>
 2. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Data%20Types%20and%20Variables%20Exercises"><b>Data Types and Variables Exercises</b></a>
     <i>Excersises from 19.01.2017</i>
+3. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Methods"><b>Methods</b></a>
+    <i>Excersises from 23.01.2017</i>
