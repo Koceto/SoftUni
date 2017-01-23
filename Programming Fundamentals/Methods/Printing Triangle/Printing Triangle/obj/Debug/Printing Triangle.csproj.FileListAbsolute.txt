@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Printing Triangle\Printing Triangle\bin\Debug\Printing Triangle.exe.config
+E:\Users\Коцето\Desktop\Printing Triangle\Printing Triangle\bin\Debug\Printing Triangle.exe
+E:\Users\Коцето\Desktop\Printing Triangle\Printing Triangle\bin\Debug\Printing Triangle.pdb
+E:\Users\Коцето\Desktop\Printing Triangle\Printing Triangle\obj\Debug\Printing Triangle.exe
+E:\Users\Коцето\Desktop\Printing Triangle\Printing Triangle\obj\Debug\Printing Triangle.pdb

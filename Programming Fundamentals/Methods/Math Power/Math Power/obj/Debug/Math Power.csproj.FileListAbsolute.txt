@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Math Power\Math Power\bin\Debug\Math Power.exe.config
+E:\Users\Коцето\Desktop\Math Power\Math Power\bin\Debug\Math Power.exe
+E:\Users\Коцето\Desktop\Math Power\Math Power\bin\Debug\Math Power.pdb
+E:\Users\Коцето\Desktop\Math Power\Math Power\obj\Debug\Math Power.exe
+E:\Users\Коцето\Desktop\Math Power\Math Power\obj\Debug\Math Power.pdb

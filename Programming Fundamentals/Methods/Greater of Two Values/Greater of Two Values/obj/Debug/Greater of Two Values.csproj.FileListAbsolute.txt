@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Greater of Two Values\Greater of Two Values\bin\Debug\Greater of Two Values.exe.config
+E:\Users\Коцето\Desktop\Greater of Two Values\Greater of Two Values\bin\Debug\Greater of Two Values.exe
+E:\Users\Коцето\Desktop\Greater of Two Values\Greater of Two Values\bin\Debug\Greater of Two Values.pdb
+E:\Users\Коцето\Desktop\Greater of Two Values\Greater of Two Values\obj\Debug\Greater of Two Values.exe
+E:\Users\Коцето\Desktop\Greater of Two Values\Greater of Two Values\obj\Debug\Greater of Two Values.pdb
+E:\Users\Коцето\Desktop\Greater of Two Values\Greater of Two Values\obj\Debug\Greater of Two Values.csprojResolveAssemblyReference.cache

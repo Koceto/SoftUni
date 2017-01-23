@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe.config
+E:\Users\Коцето\Desktop\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe
+E:\Users\Коцето\Desktop\Multiply Evens by Odds\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.pdb
+E:\Users\Коцето\Desktop\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.exe
+E:\Users\Коцето\Desktop\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.pdb
+E:\Users\Коцето\Desktop\Multiply Evens by Odds\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.csprojResolveAssemblyReference.cache
