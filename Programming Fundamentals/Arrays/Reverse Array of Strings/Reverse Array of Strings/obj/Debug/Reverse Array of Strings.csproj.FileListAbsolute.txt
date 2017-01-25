@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe.config
+E:\Users\Коцето\Desktop\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe
+E:\Users\Коцето\Desktop\Reverse Array of Strings\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.pdb
+E:\Users\Коцето\Desktop\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.exe
+E:\Users\Коцето\Desktop\Reverse Array of Strings\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.pdb

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Last K Numbers Sums\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.exe.config
+E:\Users\Коцето\Desktop\Last K Numbers Sums\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.exe
+E:\Users\Коцето\Desktop\Last K Numbers Sums\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.pdb
+E:\Users\Коцето\Desktop\Last K Numbers Sums\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.exe
+E:\Users\Коцето\Desktop\Last K Numbers Sums\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.pdb
+E:\Users\Коцето\Desktop\Last K Numbers Sums\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.csprojResolveAssemblyReference.cache

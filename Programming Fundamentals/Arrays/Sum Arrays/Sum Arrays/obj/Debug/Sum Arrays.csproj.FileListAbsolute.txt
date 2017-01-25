@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Sum Arrays\Sum Arrays\bin\Debug\Sum Arrays.exe.config
+E:\Users\Коцето\Desktop\Sum Arrays\Sum Arrays\bin\Debug\Sum Arrays.exe
+E:\Users\Коцето\Desktop\Sum Arrays\Sum Arrays\bin\Debug\Sum Arrays.pdb
+E:\Users\Коцето\Desktop\Sum Arrays\Sum Arrays\obj\Debug\Sum Arrays.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Sum Arrays\Sum Arrays\obj\Debug\Sum Arrays.exe
+E:\Users\Коцето\Desktop\Sum Arrays\Sum Arrays\obj\Debug\Sum Arrays.pdb

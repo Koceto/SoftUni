@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Tripple Sum\Tripple Sum\bin\Debug\Tripple Sum.exe.config
+E:\Users\Коцето\Desktop\Tripple Sum\Tripple Sum\bin\Debug\Tripple Sum.exe
+E:\Users\Коцето\Desktop\Tripple Sum\Tripple Sum\bin\Debug\Tripple Sum.pdb
+E:\Users\Коцето\Desktop\Tripple Sum\Tripple Sum\obj\Debug\Tripple Sum.exe
+E:\Users\Коцето\Desktop\Tripple Sum\Tripple Sum\obj\Debug\Tripple Sum.pdb

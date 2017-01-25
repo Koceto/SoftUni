@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Condense Array to Number\Condense Array to Number\bin\Debug\Condense Array to Number.exe.config
+E:\Users\Коцето\Desktop\Condense Array to Number\Condense Array to Number\bin\Debug\Condense Array to Number.exe
+E:\Users\Коцето\Desktop\Condense Array to Number\Condense Array to Number\bin\Debug\Condense Array to Number.pdb
+E:\Users\Коцето\Desktop\Condense Array to Number\Condense Array to Number\obj\Debug\Condense Array to Number.exe
+E:\Users\Коцето\Desktop\Condense Array to Number\Condense Array to Number\obj\Debug\Condense Array to Number.pdb
