@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Master Number\Master Number\bin\Debug\Master Number.exe.config
+E:\Users\Коцето\Desktop\Master Number\Master Number\bin\Debug\Master Number.exe
+E:\Users\Коцето\Desktop\Master Number\Master Number\bin\Debug\Master Number.pdb
+E:\Users\Коцето\Desktop\Master Number\Master Number\obj\Debug\Master Number.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Master Number\Master Number\obj\Debug\Master Number.exe
+E:\Users\Коцето\Desktop\Master Number\Master Number\obj\Debug\Master Number.pdb

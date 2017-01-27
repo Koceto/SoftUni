@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Substring\Substring\bin\Debug\Substring.exe.config
+E:\Users\Коцето\Desktop\Substring\Substring\bin\Debug\Substring.exe
+E:\Users\Коцето\Desktop\Substring\Substring\bin\Debug\Substring.pdb
+E:\Users\Коцето\Desktop\Substring\Substring\obj\Debug\Substring.exe
+E:\Users\Коцето\Desktop\Substring\Substring\obj\Debug\Substring.pdb
+E:\Users\Коцето\Desktop\Substring\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache

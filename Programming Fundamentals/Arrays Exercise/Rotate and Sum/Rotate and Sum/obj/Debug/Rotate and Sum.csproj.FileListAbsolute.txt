@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Rotate and Sum\Rotate and Sum\bin\Debug\Rotate and Sum.exe.config
+E:\Users\Коцето\Desktop\Rotate and Sum\Rotate and Sum\bin\Debug\Rotate and Sum.exe
+E:\Users\Коцето\Desktop\Rotate and Sum\Rotate and Sum\bin\Debug\Rotate and Sum.pdb
+E:\Users\Коцето\Desktop\Rotate and Sum\Rotate and Sum\obj\Debug\Rotate and Sum.exe
+E:\Users\Коцето\Desktop\Rotate and Sum\Rotate and Sum\obj\Debug\Rotate and Sum.pdb
+E:\Users\Коцето\Desktop\Rotate and Sum\Rotate and Sum\obj\Debug\Rotate and Sum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Hello, Name!\Hello, Name!\bin\Debug\Hello, Name!.exe.config
+E:\Users\Коцето\Desktop\Hello, Name!\Hello, Name!\bin\Debug\Hello, Name!.exe
+E:\Users\Коцето\Desktop\Hello, Name!\Hello, Name!\bin\Debug\Hello, Name!.pdb
+E:\Users\Коцето\Desktop\Hello, Name!\Hello, Name!\obj\Debug\Hello, Name!.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Hello, Name!\Hello, Name!\obj\Debug\Hello, Name!.exe
+E:\Users\Коцето\Desktop\Hello, Name!\Hello, Name!\obj\Debug\Hello, Name!.pdb

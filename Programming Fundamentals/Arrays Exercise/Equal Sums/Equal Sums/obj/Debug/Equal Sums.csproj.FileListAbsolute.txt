@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Equal Sums\Equal Sums\bin\Debug\Equal Sums.exe.config
+E:\Users\Коцето\Desktop\Equal Sums\Equal Sums\bin\Debug\Equal Sums.exe
+E:\Users\Коцето\Desktop\Equal Sums\Equal Sums\bin\Debug\Equal Sums.pdb
+E:\Users\Коцето\Desktop\Equal Sums\Equal Sums\obj\Debug\Equal Sums.exe
+E:\Users\Коцето\Desktop\Equal Sums\Equal Sums\obj\Debug\Equal Sums.pdb

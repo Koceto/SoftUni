@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Fold and Sum\Fold and Sum\bin\Debug\Fold and Sum.exe.config
+E:\Users\Коцето\Desktop\Fold and Sum\Fold and Sum\bin\Debug\Fold and Sum.exe
+E:\Users\Коцето\Desktop\Fold and Sum\Fold and Sum\bin\Debug\Fold and Sum.pdb
+E:\Users\Коцето\Desktop\Fold and Sum\Fold and Sum\obj\Debug\Fold and Sum.exe
+E:\Users\Коцето\Desktop\Fold and Sum\Fold and Sum\obj\Debug\Fold and Sum.pdb
+E:\Users\Коцето\Desktop\Fold and Sum\Fold and Sum\obj\Debug\Fold and Sum.csprojResolveAssemblyReference.cache

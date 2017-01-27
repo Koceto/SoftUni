@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Sieve of Eratosthenes\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe.config
+E:\Users\Коцето\Desktop\Sieve of Eratosthenes\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe
+E:\Users\Коцето\Desktop\Sieve of Eratosthenes\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.pdb
+E:\Users\Коцето\Desktop\Sieve of Eratosthenes\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Sieve of Eratosthenes\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.exe
+E:\Users\Коцето\Desktop\Sieve of Eratosthenes\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.pdb

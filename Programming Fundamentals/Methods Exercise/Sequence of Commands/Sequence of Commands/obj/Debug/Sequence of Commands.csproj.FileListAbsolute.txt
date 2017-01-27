@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Sequence of Commands\Sequence of Commands\bin\Debug\Sequence of Commands.exe.config
+E:\Users\Коцето\Desktop\Sequence of Commands\Sequence of Commands\bin\Debug\Sequence of Commands.exe
+E:\Users\Коцето\Desktop\Sequence of Commands\Sequence of Commands\bin\Debug\Sequence of Commands.pdb
+E:\Users\Коцето\Desktop\Sequence of Commands\Sequence of Commands\obj\Debug\Sequence of Commands.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Sequence of Commands\Sequence of Commands\obj\Debug\Sequence of Commands.exe
+E:\Users\Коцето\Desktop\Sequence of Commands\Sequence of Commands\obj\Debug\Sequence of Commands.pdb

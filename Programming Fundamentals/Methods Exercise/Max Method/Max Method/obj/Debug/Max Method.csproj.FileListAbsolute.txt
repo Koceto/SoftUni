@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Max Method\Max Method\bin\Debug\Max Method.exe.config
+E:\Users\Коцето\Desktop\Max Method\Max Method\bin\Debug\Max Method.exe
+E:\Users\Коцето\Desktop\Max Method\Max Method\bin\Debug\Max Method.pdb
+E:\Users\Коцето\Desktop\Max Method\Max Method\obj\Debug\Max Method.exe
+E:\Users\Коцето\Desktop\Max Method\Max Method\obj\Debug\Max Method.pdb

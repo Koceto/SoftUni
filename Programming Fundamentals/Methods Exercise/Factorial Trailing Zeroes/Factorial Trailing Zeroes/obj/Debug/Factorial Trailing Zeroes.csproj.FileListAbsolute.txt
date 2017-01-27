@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Factorial Trailing Zeroes\Factorial Trailing Zeroes\bin\Debug\Factorial Trailing Zeroes.exe.config
+E:\Users\Коцето\Desktop\Factorial Trailing Zeroes\Factorial Trailing Zeroes\bin\Debug\Factorial Trailing Zeroes.exe
+E:\Users\Коцето\Desktop\Factorial Trailing Zeroes\Factorial Trailing Zeroes\bin\Debug\Factorial Trailing Zeroes.pdb
+E:\Users\Коцето\Desktop\Factorial Trailing Zeroes\Factorial Trailing Zeroes\obj\Debug\Factorial Trailing Zeroes.exe
+E:\Users\Коцето\Desktop\Factorial Trailing Zeroes\Factorial Trailing Zeroes\obj\Debug\Factorial Trailing Zeroes.pdb
