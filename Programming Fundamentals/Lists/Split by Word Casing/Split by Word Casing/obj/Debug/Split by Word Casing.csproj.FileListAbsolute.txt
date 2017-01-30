@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Split by Word Casing\Split by Word Casing\bin\Debug\Split by Word Casing.exe.config
+E:\Users\Коцето\Desktop\Split by Word Casing\Split by Word Casing\bin\Debug\Split by Word Casing.exe
+E:\Users\Коцето\Desktop\Split by Word Casing\Split by Word Casing\bin\Debug\Split by Word Casing.pdb
+E:\Users\Коцето\Desktop\Split by Word Casing\Split by Word Casing\obj\Debug\Split by Word Casing.exe
+E:\Users\Коцето\Desktop\Split by Word Casing\Split by Word Casing\obj\Debug\Split by Word Casing.pdb
+E:\Users\Коцето\Desktop\Split by Word Casing\Split by Word Casing\obj\Debug\Split by Word Casing.csprojResolveAssemblyReference.cache

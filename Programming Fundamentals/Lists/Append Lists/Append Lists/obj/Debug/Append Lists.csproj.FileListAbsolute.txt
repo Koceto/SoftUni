@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Append Lists\Append Lists\bin\Debug\Append Lists.exe.config
+E:\Users\Коцето\Desktop\Append Lists\Append Lists\bin\Debug\Append Lists.exe
+E:\Users\Коцето\Desktop\Append Lists\Append Lists\bin\Debug\Append Lists.pdb
+E:\Users\Коцето\Desktop\Append Lists\Append Lists\obj\Debug\Append Lists.exe
+E:\Users\Коцето\Desktop\Append Lists\Append Lists\obj\Debug\Append Lists.pdb

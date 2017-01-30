@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Sort Numbers\Sort Numbers\bin\Debug\Sort Numbers.exe.config
+E:\Users\Коцето\Desktop\Sort Numbers\Sort Numbers\bin\Debug\Sort Numbers.exe
+E:\Users\Коцето\Desktop\Sort Numbers\Sort Numbers\bin\Debug\Sort Numbers.pdb
+E:\Users\Коцето\Desktop\Sort Numbers\Sort Numbers\obj\Debug\Sort Numbers.exe
+E:\Users\Коцето\Desktop\Sort Numbers\Sort Numbers\obj\Debug\Sort Numbers.pdb

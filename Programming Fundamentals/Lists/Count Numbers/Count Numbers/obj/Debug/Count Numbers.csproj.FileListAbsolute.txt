@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Count Numbers\Count Numbers\bin\Debug\Count Numbers.exe.config
+E:\Users\Коцето\Desktop\Count Numbers\Count Numbers\bin\Debug\Count Numbers.exe
+E:\Users\Коцето\Desktop\Count Numbers\Count Numbers\bin\Debug\Count Numbers.pdb
+E:\Users\Коцето\Desktop\Count Numbers\Count Numbers\obj\Debug\Count Numbers.exe
+E:\Users\Коцето\Desktop\Count Numbers\Count Numbers\obj\Debug\Count Numbers.pdb
