@@ -12,3 +12,7 @@
     <i>Exercises from 25.01.2017</i>
 6. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Arrays%20Exercise"><b>Arrays Exercise</b></a>
     <i>Exercises from 26.01.2017</i>
+7. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Lists"><b>Lists</b></a>
+    <i>Exercises from 30.01.2017</i>
+8. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Lists%20Exercise"><b>Lists Exercise</b></a>
+    <i>Exercises from 31.01.2017</i>
