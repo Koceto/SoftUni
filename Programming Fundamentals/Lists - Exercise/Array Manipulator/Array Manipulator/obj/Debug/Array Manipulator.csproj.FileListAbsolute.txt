@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Array Manipulator\Array Manipulator\bin\Debug\Array Manipulator.exe.config
+E:\Users\Коцето\Desktop\Array Manipulator\Array Manipulator\bin\Debug\Array Manipulator.exe
+E:\Users\Коцето\Desktop\Array Manipulator\Array Manipulator\bin\Debug\Array Manipulator.pdb
+E:\Users\Коцето\Desktop\Array Manipulator\Array Manipulator\obj\Debug\Array Manipulator.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Array Manipulator\Array Manipulator\obj\Debug\Array Manipulator.exe
+E:\Users\Коцето\Desktop\Array Manipulator\Array Manipulator\obj\Debug\Array Manipulator.pdb

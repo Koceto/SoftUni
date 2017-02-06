@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Odd Occurrences\Odd Occurrences\bin\Debug\Odd Occurrences.exe.config
+E:\Users\Коцето\Desktop\Odd Occurrences\Odd Occurrences\bin\Debug\Odd Occurrences.exe
+E:\Users\Коцето\Desktop\Odd Occurrences\Odd Occurrences\bin\Debug\Odd Occurrences.pdb
+E:\Users\Коцето\Desktop\Odd Occurrences\Odd Occurrences\obj\Debug\Odd Occurrences.exe
+E:\Users\Коцето\Desktop\Odd Occurrences\Odd Occurrences\obj\Debug\Odd Occurrences.pdb

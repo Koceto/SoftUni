@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Min, Max, Sum, Average\Min, Max, Sum, Average\bin\Debug\Min, Max, Sum, Average.exe.config
+E:\Users\Коцето\Desktop\Min, Max, Sum, Average\Min, Max, Sum, Average\bin\Debug\Min, Max, Sum, Average.exe
+E:\Users\Коцето\Desktop\Min, Max, Sum, Average\Min, Max, Sum, Average\bin\Debug\Min, Max, Sum, Average.pdb
+E:\Users\Коцето\Desktop\Min, Max, Sum, Average\Min, Max, Sum, Average\obj\Debug\Min, Max, Sum, Average.exe
+E:\Users\Коцето\Desktop\Min, Max, Sum, Average\Min, Max, Sum, Average\obj\Debug\Min, Max, Sum, Average.pdb

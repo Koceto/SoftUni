@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Sum Reversed Numbers\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe.config
+E:\Users\Коцето\Desktop\Sum Reversed Numbers\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe
+E:\Users\Коцето\Desktop\Sum Reversed Numbers\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.pdb
+E:\Users\Коцето\Desktop\Sum Reversed Numbers\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.exe
+E:\Users\Коцето\Desktop\Sum Reversed Numbers\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.pdb

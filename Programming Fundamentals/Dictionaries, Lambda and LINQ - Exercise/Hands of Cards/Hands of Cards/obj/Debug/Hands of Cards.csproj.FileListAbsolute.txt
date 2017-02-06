@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Hands of Cards\Hands of Cards\bin\Debug\Hands of Cards.exe.config
+E:\Users\Коцето\Desktop\Hands of Cards\Hands of Cards\bin\Debug\Hands of Cards.exe
+E:\Users\Коцето\Desktop\Hands of Cards\Hands of Cards\bin\Debug\Hands of Cards.pdb
+E:\Users\Коцето\Desktop\Hands of Cards\Hands of Cards\obj\Debug\Hands of Cards.exe
+E:\Users\Коцето\Desktop\Hands of Cards\Hands of Cards\obj\Debug\Hands of Cards.pdb
+E:\Users\Коцето\Desktop\Hands of Cards\Hands of Cards\obj\Debug\Hands of Cards.csprojResolveAssemblyReference.cache
