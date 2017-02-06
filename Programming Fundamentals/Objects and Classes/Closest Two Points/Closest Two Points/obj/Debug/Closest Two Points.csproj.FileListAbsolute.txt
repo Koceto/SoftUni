@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Closest Two Points\Closest Two Points\bin\Debug\Closest Two Points.exe.config
+E:\Users\Коцето\Desktop\Closest Two Points\Closest Two Points\bin\Debug\Closest Two Points.exe
+E:\Users\Коцето\Desktop\Closest Two Points\Closest Two Points\bin\Debug\Closest Two Points.pdb
+E:\Users\Коцето\Desktop\Closest Two Points\Closest Two Points\obj\Debug\Closest Two Points.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Closest Two Points\Closest Two Points\obj\Debug\Closest Two Points.exe
+E:\Users\Коцето\Desktop\Closest Two Points\Closest Two Points\obj\Debug\Closest Two Points.pdb

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Day of Week\Day of Week\bin\Debug\Day of Week.exe.config
+E:\Users\Коцето\Desktop\Day of Week\Day of Week\bin\Debug\Day of Week.exe
+E:\Users\Коцето\Desktop\Day of Week\Day of Week\bin\Debug\Day of Week.pdb
+E:\Users\Коцето\Desktop\Day of Week\Day of Week\obj\Debug\Day of Week.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Day of Week\Day of Week\obj\Debug\Day of Week.exe
+E:\Users\Коцето\Desktop\Day of Week\Day of Week\obj\Debug\Day of Week.pdb

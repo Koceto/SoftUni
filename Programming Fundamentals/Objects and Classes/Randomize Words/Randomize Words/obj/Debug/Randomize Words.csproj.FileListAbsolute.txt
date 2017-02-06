@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Randomize Words\Randomize Words\bin\Debug\Randomize Words.exe.config
+E:\Users\Коцето\Desktop\Randomize Words\Randomize Words\bin\Debug\Randomize Words.exe
+E:\Users\Коцето\Desktop\Randomize Words\Randomize Words\bin\Debug\Randomize Words.pdb
+E:\Users\Коцето\Desktop\Randomize Words\Randomize Words\obj\Debug\Randomize Words.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Randomize Words\Randomize Words\obj\Debug\Randomize Words.exe
+E:\Users\Коцето\Desktop\Randomize Words\Randomize Words\obj\Debug\Randomize Words.pdb

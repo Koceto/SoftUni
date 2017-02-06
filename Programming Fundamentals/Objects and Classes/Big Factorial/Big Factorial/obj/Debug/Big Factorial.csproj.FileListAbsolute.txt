@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Big Factorial\Big Factorial\bin\Debug\Big Factorial.exe.config
+E:\Users\Коцето\Desktop\Big Factorial\Big Factorial\bin\Debug\Big Factorial.exe
+E:\Users\Коцето\Desktop\Big Factorial\Big Factorial\bin\Debug\Big Factorial.pdb
+E:\Users\Коцето\Desktop\Big Factorial\Big Factorial\obj\Debug\Big Factorial.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Big Factorial\Big Factorial\obj\Debug\Big Factorial.exe
+E:\Users\Коцето\Desktop\Big Factorial\Big Factorial\obj\Debug\Big Factorial.pdb

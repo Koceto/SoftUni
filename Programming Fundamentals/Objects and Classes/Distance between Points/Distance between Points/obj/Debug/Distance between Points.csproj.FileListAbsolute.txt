@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Distance between Points\Distance between Points\bin\Debug\Distance between Points.exe.config
+E:\Users\Коцето\Desktop\Distance between Points\Distance between Points\bin\Debug\Distance between Points.exe
+E:\Users\Коцето\Desktop\Distance between Points\Distance between Points\bin\Debug\Distance between Points.pdb
+E:\Users\Коцето\Desktop\Distance between Points\Distance between Points\obj\Debug\Distance between Points.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Distance between Points\Distance between Points\obj\Debug\Distance between Points.exe
+E:\Users\Коцето\Desktop\Distance between Points\Distance between Points\obj\Debug\Distance between Points.pdb
