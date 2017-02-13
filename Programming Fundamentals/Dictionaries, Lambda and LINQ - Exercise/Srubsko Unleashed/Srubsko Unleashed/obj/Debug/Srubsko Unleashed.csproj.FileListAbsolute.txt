@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Srubsko Unleashed\Srubsko Unleashed\bin\Debug\Srubsko Unleashed.exe.config
+E:\Users\Коцето\Desktop\Srubsko Unleashed\Srubsko Unleashed\obj\Debug\Srubsko Unleashed.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Srubsko Unleashed\Srubsko Unleashed\bin\Debug\Srubsko Unleashed.exe
+E:\Users\Коцето\Desktop\Srubsko Unleashed\Srubsko Unleashed\bin\Debug\Srubsko Unleashed.pdb
+E:\Users\Коцето\Desktop\Srubsko Unleashed\Srubsko Unleashed\obj\Debug\Srubsko Unleashed.exe
+E:\Users\Коцето\Desktop\Srubsko Unleashed\Srubsko Unleashed\obj\Debug\Srubsko Unleashed.pdb

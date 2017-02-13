@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\MaxSequenceofEqualElements\MaxSequenceofEqualElements\bin\Debug\MaxSequenceofEqualElements.exe.config
+E:\Users\Коцето\Desktop\MaxSequenceofEqualElements\MaxSequenceofEqualElements\bin\Debug\MaxSequenceofEqualElements.exe
+E:\Users\Коцето\Desktop\MaxSequenceofEqualElements\MaxSequenceofEqualElements\bin\Debug\MaxSequenceofEqualElements.pdb
+E:\Users\Коцето\Desktop\MaxSequenceofEqualElements\MaxSequenceofEqualElements\obj\Debug\MaxSequenceofEqualElements.exe
+E:\Users\Коцето\Desktop\MaxSequenceofEqualElements\MaxSequenceofEqualElements\obj\Debug\MaxSequenceofEqualElements.pdb

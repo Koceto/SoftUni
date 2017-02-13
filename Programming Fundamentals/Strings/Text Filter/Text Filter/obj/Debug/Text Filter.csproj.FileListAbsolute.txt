@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Text Filter\Text Filter\bin\Debug\Text Filter.exe.config
+E:\Users\Коцето\Desktop\Text Filter\Text Filter\bin\Debug\Text Filter.exe
+E:\Users\Коцето\Desktop\Text Filter\Text Filter\bin\Debug\Text Filter.pdb
+E:\Users\Коцето\Desktop\Text Filter\Text Filter\obj\Debug\Text Filter.exe
+E:\Users\Коцето\Desktop\Text Filter\Text Filter\obj\Debug\Text Filter.pdb

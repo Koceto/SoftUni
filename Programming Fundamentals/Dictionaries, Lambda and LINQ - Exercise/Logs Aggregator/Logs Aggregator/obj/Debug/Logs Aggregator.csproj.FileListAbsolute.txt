@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Logs Aggregator\Logs Aggregator\bin\Debug\Logs Aggregator.exe.config
+E:\Users\Коцето\Desktop\Logs Aggregator\Logs Aggregator\bin\Debug\Logs Aggregator.exe
+E:\Users\Коцето\Desktop\Logs Aggregator\Logs Aggregator\bin\Debug\Logs Aggregator.pdb
+E:\Users\Коцето\Desktop\Logs Aggregator\Logs Aggregator\obj\Debug\Logs Aggregator.exe
+E:\Users\Коцето\Desktop\Logs Aggregator\Logs Aggregator\obj\Debug\Logs Aggregator.pdb

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Circles Intersection\Circles Intersection\bin\Debug\Circles Intersection.exe.config
+E:\Users\Коцето\Desktop\Circles Intersection\Circles Intersection\bin\Debug\Circles Intersection.exe
+E:\Users\Коцето\Desktop\Circles Intersection\Circles Intersection\bin\Debug\Circles Intersection.pdb
+E:\Users\Коцето\Desktop\Circles Intersection\Circles Intersection\obj\Debug\Circles Intersection.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Circles Intersection\Circles Intersection\obj\Debug\Circles Intersection.exe
+E:\Users\Коцето\Desktop\Circles Intersection\Circles Intersection\obj\Debug\Circles Intersection.pdb

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Book Library\Book Library\bin\Debug\Book Library.exe.config
+E:\Users\Коцето\Desktop\Book Library\Book Library\bin\Debug\Book Library.exe
+E:\Users\Коцето\Desktop\Book Library\Book Library\bin\Debug\Book Library.pdb
+E:\Users\Коцето\Desktop\Book Library\Book Library\obj\Debug\Book Library.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Book Library\Book Library\obj\Debug\Book Library.exe
+E:\Users\Коцето\Desktop\Book Library\Book Library\obj\Debug\Book Library.pdb

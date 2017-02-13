@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Folder Size\Folder Size\bin\Debug\Folder Size.exe.config
+E:\Users\Коцето\Desktop\Folder Size\Folder Size\bin\Debug\Folder Size.exe
+E:\Users\Коцето\Desktop\Folder Size\Folder Size\bin\Debug\Folder Size.pdb
+E:\Users\Коцето\Desktop\Folder Size\Folder Size\obj\Debug\Folder Size.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Folder Size\Folder Size\obj\Debug\Folder Size.exe
+E:\Users\Коцето\Desktop\Folder Size\Folder Size\obj\Debug\Folder Size.pdb

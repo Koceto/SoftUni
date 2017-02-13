@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Merge Files\Merge Files\bin\Debug\Merge Files.exe.config
+E:\Users\Коцето\Desktop\Merge Files\Merge Files\bin\Debug\Merge Files.exe
+E:\Users\Коцето\Desktop\Merge Files\Merge Files\bin\Debug\Merge Files.pdb
+E:\Users\Коцето\Desktop\Merge Files\Merge Files\obj\Debug\Merge Files.exe
+E:\Users\Коцето\Desktop\Merge Files\Merge Files\obj\Debug\Merge Files.pdb

@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Line Numbers\Line Numbers\bin\Debug\Line Numbers.exe.config
+E:\Users\Коцето\Desktop\Line Numbers\Line Numbers\bin\Debug\Line Numbers.exe
+E:\Users\Коцето\Desktop\Line Numbers\Line Numbers\bin\Debug\Line Numbers.pdb
+E:\Users\Коцето\Desktop\Line Numbers\Line Numbers\obj\Debug\Line Numbers.exe
+E:\Users\Коцето\Desktop\Line Numbers\Line Numbers\obj\Debug\Line Numbers.pdb

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Odd Lines\Odd Lines\bin\Debug\Odd Lines.exe.config
+E:\Users\Коцето\Desktop\Odd Lines\Odd Lines\bin\Debug\Odd Lines.exe
+E:\Users\Коцето\Desktop\Odd Lines\Odd Lines\bin\Debug\Odd Lines.pdb
+E:\Users\Коцето\Desktop\Odd Lines\Odd Lines\obj\Debug\Odd Lines.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Odd Lines\Odd Lines\obj\Debug\Odd Lines.exe
+E:\Users\Коцето\Desktop\Odd Lines\Odd Lines\obj\Debug\Odd Lines.pdb

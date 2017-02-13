@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Population Counter\Population Counter\bin\Debug\Population Counter.exe.config
+E:\Users\Коцето\Desktop\Population Counter\Population Counter\bin\Debug\Population Counter.exe
+E:\Users\Коцето\Desktop\Population Counter\Population Counter\bin\Debug\Population Counter.pdb
+E:\Users\Коцето\Desktop\Population Counter\Population Counter\obj\Debug\Population Counter.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Population Counter\Population Counter\obj\Debug\Population Counter.exe
+E:\Users\Коцето\Desktop\Population Counter\Population Counter\obj\Debug\Population Counter.pdb

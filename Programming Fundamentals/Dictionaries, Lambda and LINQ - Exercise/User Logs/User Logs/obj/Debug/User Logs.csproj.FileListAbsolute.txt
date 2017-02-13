@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\User Logs\User Logs\bin\Debug\User Logs.exe.config
+E:\Users\Коцето\Desktop\User Logs\User Logs\bin\Debug\User Logs.exe
+E:\Users\Коцето\Desktop\User Logs\User Logs\bin\Debug\User Logs.pdb
+E:\Users\Коцето\Desktop\User Logs\User Logs\obj\Debug\User Logs.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\User Logs\User Logs\obj\Debug\User Logs.exe
+E:\Users\Коцето\Desktop\User Logs\User Logs\obj\Debug\User Logs.pdb

@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\Advertisement Message\Advertisement Message\bin\Debug\Advertisement Message.exe.config
+E:\Users\Коцето\Desktop\Advertisement Message\Advertisement Message\bin\Debug\Advertisement Message.exe
+E:\Users\Коцето\Desktop\Advertisement Message\Advertisement Message\bin\Debug\Advertisement Message.pdb
+E:\Users\Коцето\Desktop\Advertisement Message\Advertisement Message\obj\Debug\Advertisement Message.exe
+E:\Users\Коцето\Desktop\Advertisement Message\Advertisement Message\obj\Debug\Advertisement Message.pdb
