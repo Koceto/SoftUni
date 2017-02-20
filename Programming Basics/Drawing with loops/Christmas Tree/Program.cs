@@ -16,7 +16,9 @@ namespace Christmas_Tree
 
             for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine("{0}{1} | {1}", new string(' ', n - i), new string('*', i));
+                Console.WriteLine("{0}{1} | {1}",
+                    new string(' ', n - i),
+                    new string('*', i));
             }
         }
     }

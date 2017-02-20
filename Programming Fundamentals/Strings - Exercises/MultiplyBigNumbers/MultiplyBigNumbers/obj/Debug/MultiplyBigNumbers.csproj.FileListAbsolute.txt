@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\MultiplyBigNumbers\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.exe.config
+E:\Users\Коцето\Desktop\MultiplyBigNumbers\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.exe
+E:\Users\Коцето\Desktop\MultiplyBigNumbers\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.pdb
+E:\Users\Коцето\Desktop\MultiplyBigNumbers\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.exe
+E:\Users\Коцето\Desktop\MultiplyBigNumbers\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.pdb

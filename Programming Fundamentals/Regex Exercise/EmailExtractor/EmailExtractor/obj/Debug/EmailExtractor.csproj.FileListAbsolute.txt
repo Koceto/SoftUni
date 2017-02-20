@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\EmailExtractor\EmailExtractor\bin\Debug\EmailExtractor.exe.config
+E:\Users\Коцето\Desktop\EmailExtractor\EmailExtractor\bin\Debug\EmailExtractor.exe
+E:\Users\Коцето\Desktop\EmailExtractor\EmailExtractor\bin\Debug\EmailExtractor.pdb
+E:\Users\Коцето\Desktop\EmailExtractor\EmailExtractor\obj\Debug\EmailExtractor.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\EmailExtractor\EmailExtractor\obj\Debug\EmailExtractor.exe
+E:\Users\Коцето\Desktop\EmailExtractor\EmailExtractor\obj\Debug\EmailExtractor.pdb

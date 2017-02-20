@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Character Multiplier\Character Multiplier\bin\Debug\Character Multiplier.exe.config
+E:\Users\Коцето\Desktop\Character Multiplier\Character Multiplier\bin\Debug\Character Multiplier.exe
+E:\Users\Коцето\Desktop\Character Multiplier\Character Multiplier\bin\Debug\Character Multiplier.pdb
+E:\Users\Коцето\Desktop\Character Multiplier\Character Multiplier\obj\Debug\Character Multiplier.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Character Multiplier\Character Multiplier\obj\Debug\Character Multiplier.exe
+E:\Users\Коцето\Desktop\Character Multiplier\Character Multiplier\obj\Debug\Character Multiplier.pdb

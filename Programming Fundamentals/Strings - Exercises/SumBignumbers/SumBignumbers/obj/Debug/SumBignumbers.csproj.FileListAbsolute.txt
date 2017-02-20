@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\SumBignumbers\SumBignumbers\bin\Debug\SumBignumbers.exe.config
+E:\Users\Коцето\Desktop\SumBignumbers\SumBignumbers\bin\Debug\SumBignumbers.exe
+E:\Users\Коцето\Desktop\SumBignumbers\SumBignumbers\bin\Debug\SumBignumbers.pdb
+E:\Users\Коцето\Desktop\SumBignumbers\SumBignumbers\obj\Debug\SumBignumbers.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\SumBignumbers\SumBignumbers\obj\Debug\SumBignumbers.exe
+E:\Users\Коцето\Desktop\SumBignumbers\SumBignumbers\obj\Debug\SumBignumbers.pdb

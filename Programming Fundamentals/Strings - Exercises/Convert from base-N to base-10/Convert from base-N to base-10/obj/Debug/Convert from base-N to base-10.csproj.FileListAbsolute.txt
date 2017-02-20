@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\Convert from base-N to base-10.exe.config
+E:\Users\Коцето\Desktop\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\Convert from base-N to base-10.exe
+E:\Users\Коцето\Desktop\Convert from base-N to base-10\Convert from base-N to base-10\bin\Debug\Convert from base-N to base-10.pdb
+E:\Users\Коцето\Desktop\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\Convert from base-N to base-10.exe
+E:\Users\Коцето\Desktop\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\Convert from base-N to base-10.pdb
+E:\Users\Коцето\Desktop\Convert from base-N to base-10\Convert from base-N to base-10\obj\Debug\Convert from base-N to base-10.csprojResolveAssemblyReference.cache

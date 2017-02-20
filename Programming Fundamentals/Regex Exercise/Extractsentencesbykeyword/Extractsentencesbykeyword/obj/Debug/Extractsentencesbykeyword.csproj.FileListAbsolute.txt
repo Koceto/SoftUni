@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Extractsentencesbykeyword\Extractsentencesbykeyword\bin\Debug\Extractsentencesbykeyword.exe.config
+E:\Users\Коцето\Desktop\Extractsentencesbykeyword\Extractsentencesbykeyword\bin\Debug\Extractsentencesbykeyword.exe
+E:\Users\Коцето\Desktop\Extractsentencesbykeyword\Extractsentencesbykeyword\bin\Debug\Extractsentencesbykeyword.pdb
+E:\Users\Коцето\Desktop\Extractsentencesbykeyword\Extractsentencesbykeyword\obj\Debug\Extractsentencesbykeyword.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Extractsentencesbykeyword\Extractsentencesbykeyword\obj\Debug\Extractsentencesbykeyword.exe
+E:\Users\Коцето\Desktop\Extractsentencesbykeyword\Extractsentencesbykeyword\obj\Debug\Extractsentencesbykeyword.pdb
