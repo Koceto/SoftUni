@@ -4,25 +4,25 @@
 <b>Data Types and Variables</b></a>
     <br><i>Exercises from 18.01.2017</i>
 2. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Data%20Types%20and%20Variables%20-%20Exercises">
-<b>Data Types and Variables Exercises</b></a>
+<b>Data Types and Variables - Exercises</b></a>
     <br><i>Exercises from 19.01.2017</i>
 3. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Methods">
 <b>Methods</b></a>
     <br><i>Exercises from 23.01.2017</i>
 4. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Methods%20-%20Exercises">
-<b>Methods Exercises</b></a>
+<b>Methods - Exercises</b></a>
     <br><i>Exercises from 24.01.2017</i>
 5. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Arrays">
 <b>Arrays</b></a>
     <br><i>Exercises from 25.01.2017</i>
 6. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Arrays%20-%20Exercises">
-<b>Arrays Exercises</b></a>
+<b>Arrays - Exercises</b></a>
     <br><i>Exercises from 26.01.2017</i>
 7. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Lists">
 <b>Lists</b></a>
     <br><i>Exercises from 30.01.2017</i>
 8. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Lists%20-%20Exercises">
-<b>Lists Exercises</b></a>
+<b>Lists - Exercises</b></a>
     <br><i>Exercises from 31.01.2017</i>
 9. <a href="https://github.com/Koceto/SoftUni/tree/master/Programming%20Fundamentals/Dictionaries%2C%20Lambda%20and%20LINQ">
 <b>Dictionaries, Lambda and LINQ</b></a>
