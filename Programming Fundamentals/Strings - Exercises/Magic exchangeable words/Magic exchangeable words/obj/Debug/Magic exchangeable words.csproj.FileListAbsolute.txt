@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Magic exchangeable words\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe.config
-E:\Users\Коцето\Desktop\Magic exchangeable words\Magic exchangeable words\bin\Debug\Magic exchangeable words.exe
-E:\Users\Коцето\Desktop\Magic exchangeable words\Magic exchangeable words\bin\Debug\Magic exchangeable words.pdb
-E:\Users\Коцето\Desktop\Magic exchangeable words\Magic exchangeable words\obj\Debug\Magic exchangeable words.exe
-E:\Users\Коцето\Desktop\Magic exchangeable words\Magic exchangeable words\obj\Debug\Magic exchangeable words.pdb

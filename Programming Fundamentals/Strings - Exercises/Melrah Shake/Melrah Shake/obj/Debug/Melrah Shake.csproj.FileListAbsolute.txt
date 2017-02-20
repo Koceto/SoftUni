@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Melrah Shake\Melrah Shake\bin\Debug\Melrah Shake.exe.config
-E:\Users\Коцето\Desktop\Melrah Shake\Melrah Shake\bin\Debug\Melrah Shake.exe
-E:\Users\Коцето\Desktop\Melrah Shake\Melrah Shake\bin\Debug\Melrah Shake.pdb
-E:\Users\Коцето\Desktop\Melrah Shake\Melrah Shake\obj\Debug\Melrah Shake.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Melrah Shake\Melrah Shake\obj\Debug\Melrah Shake.exe
-E:\Users\Коцето\Desktop\Melrah Shake\Melrah Shake\obj\Debug\Melrah Shake.pdb

@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\AndreyAndBilliard\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe.config
-E:\Users\Коцето\Desktop\AndreyAndBilliard\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe
-E:\Users\Коцето\Desktop\AndreyAndBilliard\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.pdb
-E:\Users\Коцето\Desktop\AndreyAndBilliard\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\AndreyAndBilliard\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.exe
-E:\Users\Коцето\Desktop\AndreyAndBilliard\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.pdb
