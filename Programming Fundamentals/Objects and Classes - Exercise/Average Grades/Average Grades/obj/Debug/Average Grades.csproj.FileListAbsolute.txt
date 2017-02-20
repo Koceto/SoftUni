@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Average Grades\Average Grades\bin\Debug\Average Grades.exe.config
+E:\Users\Коцето\Desktop\Average Grades\Average Grades\bin\Debug\Average Grades.exe
+E:\Users\Коцето\Desktop\Average Grades\Average Grades\bin\Debug\Average Grades.pdb
+E:\Users\Коцето\Desktop\Average Grades\Average Grades\obj\Debug\Average Grades.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Average Grades\Average Grades\obj\Debug\Average Grades.exe
+E:\Users\Коцето\Desktop\Average Grades\Average Grades\obj\Debug\Average Grades.pdb

@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\TeamworkProjects\TeamworkProjects\bin\Debug\TeamworkProjects.exe.config
+E:\Users\Коцето\Desktop\TeamworkProjects\TeamworkProjects\bin\Debug\TeamworkProjects.exe
+E:\Users\Коцето\Desktop\TeamworkProjects\TeamworkProjects\bin\Debug\TeamworkProjects.pdb
+E:\Users\Коцето\Desktop\TeamworkProjects\TeamworkProjects\obj\Debug\TeamworkProjects.exe
+E:\Users\Коцето\Desktop\TeamworkProjects\TeamworkProjects\obj\Debug\TeamworkProjects.pdb
+E:\Users\Коцето\Desktop\TeamworkProjects\TeamworkProjects\obj\Debug\TeamworkProjects.csprojResolveAssemblyReference.cache
