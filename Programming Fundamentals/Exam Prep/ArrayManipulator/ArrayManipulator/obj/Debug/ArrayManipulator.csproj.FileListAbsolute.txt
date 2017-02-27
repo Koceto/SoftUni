@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\ArrayManipulator\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+E:\Users\Коцето\Desktop\ArrayManipulator\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+E:\Users\Коцето\Desktop\ArrayManipulator\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+E:\Users\Коцето\Desktop\ArrayManipulator\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+E:\Users\Коцето\Desktop\ArrayManipulator\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

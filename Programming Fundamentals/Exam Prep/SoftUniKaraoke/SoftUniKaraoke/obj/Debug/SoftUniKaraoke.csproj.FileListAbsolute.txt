@@ -1,0 +1,9 @@
+E:\Users\Коцето\Desktop\SoftUniKaraoke\SoftUniKaraoke\bin\Debug\SoftUniKaraoke.exe.config
+E:\Users\Коцето\Desktop\SoftUniKaraoke\SoftUniKaraoke\bin\Debug\SoftUniKaraoke.exe
+E:\Users\Коцето\Desktop\SoftUniKaraoke\SoftUniKaraoke\bin\Debug\SoftUniKaraoke.pdb
+E:\Users\Коцето\Desktop\SoftUniKaraoke\SoftUniKaraoke\obj\Debug\SoftUniKaraoke.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\SoftUniKaraoke\SoftUniKaraoke\obj\Debug\SoftUniKaraoke.exe
+E:\Users\Коцето\Desktop\SoftUniKaraoke\SoftUniKaraoke\obj\Debug\SoftUniKaraoke.pdb
+E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\SoftUniKaraoke\SoftUniKaraoke\bin\Debug\SoftUniKaraoke.exe.config
+E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\SoftUniKaraoke\SoftUniKaraoke\obj\Debug\SoftUniKaraoke.exe
+E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\SoftUniKaraoke\SoftUniKaraoke\obj\Debug\SoftUniKaraoke.pdb

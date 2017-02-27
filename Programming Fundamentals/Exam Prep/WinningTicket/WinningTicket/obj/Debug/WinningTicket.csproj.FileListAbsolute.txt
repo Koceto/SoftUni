@@ -1,0 +1,9 @@
+E:\Users\Коцето\Desktop\WinningTicket\WinningTicket\bin\Debug\WinningTicket.exe.config
+E:\Users\Коцето\Desktop\WinningTicket\WinningTicket\bin\Debug\WinningTicket.exe
+E:\Users\Коцето\Desktop\WinningTicket\WinningTicket\bin\Debug\WinningTicket.pdb
+E:\Users\Коцето\Desktop\WinningTicket\WinningTicket\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\WinningTicket\WinningTicket\obj\Debug\WinningTicket.exe
+E:\Users\Коцето\Desktop\WinningTicket\WinningTicket\obj\Debug\WinningTicket.pdb
+E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\WinningTicket\WinningTicket\bin\Debug\WinningTicket.exe.config
+E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\WinningTicket\WinningTicket\obj\Debug\WinningTicket.exe
+E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\WinningTicket\WinningTicket\obj\Debug\WinningTicket.pdb

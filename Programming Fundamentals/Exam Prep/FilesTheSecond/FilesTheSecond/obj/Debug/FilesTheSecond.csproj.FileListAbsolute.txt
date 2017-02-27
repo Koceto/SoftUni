@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\FilesTheSecond\FilesTheSecond\bin\Debug\FilesTheSecond.exe.config
+E:\Users\Коцето\Desktop\FilesTheSecond\FilesTheSecond\obj\Debug\FilesTheSecond.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\FilesTheSecond\FilesTheSecond\bin\Debug\FilesTheSecond.exe
+E:\Users\Коцето\Desktop\FilesTheSecond\FilesTheSecond\bin\Debug\FilesTheSecond.pdb
+E:\Users\Коцето\Desktop\FilesTheSecond\FilesTheSecond\obj\Debug\FilesTheSecond.exe
+E:\Users\Коцето\Desktop\FilesTheSecond\FilesTheSecond\obj\Debug\FilesTheSecond.pdb

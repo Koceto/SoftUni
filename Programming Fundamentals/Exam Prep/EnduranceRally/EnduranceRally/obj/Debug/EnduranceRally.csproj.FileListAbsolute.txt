@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\EnduranceRally\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+E:\Users\Коцето\Desktop\EnduranceRally\EnduranceRally\bin\Debug\EnduranceRally.exe
+E:\Users\Коцето\Desktop\EnduranceRally\EnduranceRally\bin\Debug\EnduranceRally.pdb
+E:\Users\Коцето\Desktop\EnduranceRally\EnduranceRally\obj\Debug\EnduranceRally.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\EnduranceRally\EnduranceRally\obj\Debug\EnduranceRally.exe
+E:\Users\Коцето\Desktop\EnduranceRally\EnduranceRally\obj\Debug\EnduranceRally.pdb

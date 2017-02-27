@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+E:\Users\Коцето\Desktop\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.exe
+E:\Users\Коцето\Desktop\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
+E:\Users\Коцето\Desktop\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+E:\Users\Коцето\Desktop\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.pdb

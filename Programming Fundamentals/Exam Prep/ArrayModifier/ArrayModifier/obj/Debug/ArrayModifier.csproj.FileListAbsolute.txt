@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\ArrayModifier\ArrayModifier\bin\Debug\ArrayModifier.exe.config
+E:\Users\Коцето\Desktop\ArrayModifier\ArrayModifier\bin\Debug\ArrayModifier.exe
+E:\Users\Коцето\Desktop\ArrayModifier\ArrayModifier\bin\Debug\ArrayModifier.pdb
+E:\Users\Коцето\Desktop\ArrayModifier\ArrayModifier\obj\Debug\ArrayModifier.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\ArrayModifier\ArrayModifier\obj\Debug\ArrayModifier.exe
+E:\Users\Коцето\Desktop\ArrayModifier\ArrayModifier\obj\Debug\ArrayModifier.pdb

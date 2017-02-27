@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\exam 2\exam 2\bin\Debug\exam 2.exe.config
+E:\Users\Коцето\Desktop\exam 2\exam 2\bin\Debug\exam 2.exe
+E:\Users\Коцето\Desktop\exam 2\exam 2\bin\Debug\exam 2.pdb
+E:\Users\Коцето\Desktop\exam 2\exam 2\obj\Debug\exam 2.exe
+E:\Users\Коцето\Desktop\exam 2\exam 2\obj\Debug\exam 2.pdb
+E:\Users\Коцето\Desktop\exam 2\exam 2\obj\Debug\exam 2.csprojResolveAssemblyReference.cache

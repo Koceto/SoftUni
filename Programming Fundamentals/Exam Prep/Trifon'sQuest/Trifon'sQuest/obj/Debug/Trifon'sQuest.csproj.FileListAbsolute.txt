@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Trifon'sQuest\Trifon'sQuest\obj\Debug\Trifon'sQuest.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Trifon'sQuest\Trifon'sQuest\bin\Debug\TrifonsQuest.exe.config
+E:\Users\Коцето\Desktop\Trifon'sQuest\Trifon'sQuest\bin\Debug\TrifonsQuest.exe
+E:\Users\Коцето\Desktop\Trifon'sQuest\Trifon'sQuest\bin\Debug\TrifonsQuest.pdb
+E:\Users\Коцето\Desktop\Trifon'sQuest\Trifon'sQuest\obj\Debug\TrifonsQuest.exe
+E:\Users\Коцето\Desktop\Trifon'sQuest\Trifon'sQuest\obj\Debug\TrifonsQuest.pdb

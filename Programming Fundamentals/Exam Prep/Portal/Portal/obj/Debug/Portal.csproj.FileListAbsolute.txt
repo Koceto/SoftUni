@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\Portal\Portal\bin\Debug\Portal.exe.config
+E:\Users\Коцето\Desktop\Portal\Portal\bin\Debug\Portal.exe
+E:\Users\Коцето\Desktop\Portal\Portal\bin\Debug\Portal.pdb
+E:\Users\Коцето\Desktop\Portal\Portal\obj\Debug\Portal.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\Portal\Portal\obj\Debug\Portal.exe
+E:\Users\Коцето\Desktop\Portal\Portal\obj\Debug\Portal.pdb

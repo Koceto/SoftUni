@@ -1,0 +1,5 @@
+E:\Users\Коцето\Desktop\SoftuniCoffeeOrdersTheSecond\SoftuniCoffeeOrdersTheSecond\bin\Debug\SoftuniCoffeeOrdersTheSecond.exe.config
+E:\Users\Коцето\Desktop\SoftuniCoffeeOrdersTheSecond\SoftuniCoffeeOrdersTheSecond\bin\Debug\SoftuniCoffeeOrdersTheSecond.exe
+E:\Users\Коцето\Desktop\SoftuniCoffeeOrdersTheSecond\SoftuniCoffeeOrdersTheSecond\bin\Debug\SoftuniCoffeeOrdersTheSecond.pdb
+E:\Users\Коцето\Desktop\SoftuniCoffeeOrdersTheSecond\SoftuniCoffeeOrdersTheSecond\obj\Debug\SoftuniCoffeeOrdersTheSecond.exe
+E:\Users\Коцето\Desktop\SoftuniCoffeeOrdersTheSecond\SoftuniCoffeeOrdersTheSecond\obj\Debug\SoftuniCoffeeOrdersTheSecond.pdb

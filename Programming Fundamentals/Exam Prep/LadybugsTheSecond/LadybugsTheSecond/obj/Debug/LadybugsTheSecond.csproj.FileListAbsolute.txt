@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\LadybugsTheSecond\LadybugsTheSecond\bin\Debug\LadybugsTheSecond.exe.config
+E:\Users\Коцето\Desktop\LadybugsTheSecond\LadybugsTheSecond\bin\Debug\LadybugsTheSecond.exe
+E:\Users\Коцето\Desktop\LadybugsTheSecond\LadybugsTheSecond\bin\Debug\LadybugsTheSecond.pdb
+E:\Users\Коцето\Desktop\LadybugsTheSecond\LadybugsTheSecond\obj\Debug\LadybugsTheSecond.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\LadybugsTheSecond\LadybugsTheSecond\obj\Debug\LadybugsTheSecond.exe
+E:\Users\Коцето\Desktop\LadybugsTheSecond\LadybugsTheSecond\obj\Debug\LadybugsTheSecond.pdb

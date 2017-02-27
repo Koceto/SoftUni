@@ -1,0 +1,6 @@
+E:\Users\Коцето\Desktop\RageQuit\RageQuit\bin\Debug\RageQuit.exe.config
+E:\Users\Коцето\Desktop\RageQuit\RageQuit\bin\Debug\RageQuit.exe
+E:\Users\Коцето\Desktop\RageQuit\RageQuit\bin\Debug\RageQuit.pdb
+E:\Users\Коцето\Desktop\RageQuit\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+E:\Users\Коцето\Desktop\RageQuit\RageQuit\obj\Debug\RageQuit.exe
+E:\Users\Коцето\Desktop\RageQuit\RageQuit\obj\Debug\RageQuit.pdb
