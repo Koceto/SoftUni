@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Max Sequence of Increasing Elements\Max Sequence of Increasing Elements\bin\Debug\Max Sequence of Increasing Elements.exe.config
-E:\Users\Коцето\Desktop\Max Sequence of Increasing Elements\Max Sequence of Increasing Elements\bin\Debug\Max Sequence of Increasing Elements.exe
-E:\Users\Коцето\Desktop\Max Sequence of Increasing Elements\Max Sequence of Increasing Elements\bin\Debug\Max Sequence of Increasing Elements.pdb
-E:\Users\Коцето\Desktop\Max Sequence of Increasing Elements\Max Sequence of Increasing Elements\obj\Debug\Max Sequence of Increasing Elements.exe
-E:\Users\Коцето\Desktop\Max Sequence of Increasing Elements\Max Sequence of Increasing Elements\obj\Debug\Max Sequence of Increasing Elements.pdb

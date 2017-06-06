@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\LadyBugs\LadyBugs\bin\Debug\LadyBugs.exe.config
-E:\Users\Коцето\Desktop\LadyBugs\LadyBugs\obj\Debug\LadyBugs.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\LadyBugs\LadyBugs\bin\Debug\LadyBugs.exe
-E:\Users\Коцето\Desktop\LadyBugs\LadyBugs\bin\Debug\LadyBugs.pdb
-E:\Users\Коцето\Desktop\LadyBugs\LadyBugs\obj\Debug\LadyBugs.exe
-E:\Users\Коцето\Desktop\LadyBugs\LadyBugs\obj\Debug\LadyBugs.pdb

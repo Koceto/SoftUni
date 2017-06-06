@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Dessert\Dessert\bin\Debug\Dessert.exe.config
-E:\Users\Коцето\Desktop\Dessert\Dessert\bin\Debug\Dessert.exe
-E:\Users\Коцето\Desktop\Dessert\Dessert\bin\Debug\Dessert.pdb
-E:\Users\Коцето\Desktop\Dessert\Dessert\obj\Debug\Dessert.exe
-E:\Users\Коцето\Desktop\Dessert\Dessert\obj\Debug\Dessert.pdb

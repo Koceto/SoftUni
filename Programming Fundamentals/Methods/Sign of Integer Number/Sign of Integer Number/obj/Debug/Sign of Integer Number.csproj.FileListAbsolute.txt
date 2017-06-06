@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Sign of Integer Number\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe.config
-E:\Users\Коцето\Desktop\Sign of Integer Number\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe
-E:\Users\Коцето\Desktop\Sign of Integer Number\Sign of Integer Number\bin\Debug\Sign of Integer Number.pdb
-E:\Users\Коцето\Desktop\Sign of Integer Number\Sign of Integer Number\obj\Debug\Sign of Integer Number.exe
-E:\Users\Коцето\Desktop\Sign of Integer Number\Sign of Integer Number\obj\Debug\Sign of Integer Number.pdb

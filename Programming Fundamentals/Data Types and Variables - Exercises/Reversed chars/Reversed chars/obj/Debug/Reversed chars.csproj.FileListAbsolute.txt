@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Reversed chars\Reversed chars\bin\Debug\Reversed chars.exe.config
-E:\Users\Коцето\Desktop\Reversed chars\Reversed chars\bin\Debug\Reversed chars.exe
-E:\Users\Коцето\Desktop\Reversed chars\Reversed chars\bin\Debug\Reversed chars.pdb
-E:\Users\Коцето\Desktop\Reversed chars\Reversed chars\obj\Debug\Reversed chars.exe
-E:\Users\Коцето\Desktop\Reversed chars\Reversed chars\obj\Debug\Reversed chars.pdb

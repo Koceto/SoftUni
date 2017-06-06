@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\MentorGroup\MentorGroup\bin\Debug\MentorGroup.exe.config
-E:\Users\Коцето\Desktop\MentorGroup\MentorGroup\bin\Debug\MentorGroup.exe
-E:\Users\Коцето\Desktop\MentorGroup\MentorGroup\bin\Debug\MentorGroup.pdb
-E:\Users\Коцето\Desktop\MentorGroup\MentorGroup\obj\Debug\MentorGroup.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\MentorGroup\MentorGroup\obj\Debug\MentorGroup.exe
-E:\Users\Коцето\Desktop\MentorGroup\MentorGroup\obj\Debug\MentorGroup.pdb

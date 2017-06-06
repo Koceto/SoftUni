@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Numbers in Reversed Order\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.exe.config
-E:\Users\Коцето\Desktop\Numbers in Reversed Order\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.exe
-E:\Users\Коцето\Desktop\Numbers in Reversed Order\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.pdb
-E:\Users\Коцето\Desktop\Numbers in Reversed Order\Numbers in Reversed Order\obj\Debug\Numbers in Reversed Order.exe
-E:\Users\Коцето\Desktop\Numbers in Reversed Order\Numbers in Reversed Order\obj\Debug\Numbers in Reversed Order.pdb

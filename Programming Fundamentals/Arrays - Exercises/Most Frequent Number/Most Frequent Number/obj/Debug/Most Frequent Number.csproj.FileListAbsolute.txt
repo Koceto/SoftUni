@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Most Frequent Number\Most Frequent Number\bin\Debug\Most Frequent Number.exe.config
-E:\Users\Коцето\Desktop\Most Frequent Number\Most Frequent Number\bin\Debug\Most Frequent Number.exe
-E:\Users\Коцето\Desktop\Most Frequent Number\Most Frequent Number\bin\Debug\Most Frequent Number.pdb
-E:\Users\Коцето\Desktop\Most Frequent Number\Most Frequent Number\obj\Debug\Most Frequent Number.exe
-E:\Users\Коцето\Desktop\Most Frequent Number\Most Frequent Number\obj\Debug\Most Frequent Number.pdb

@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\bePositive\bePositive\bin\Debug\bePositive.exe.config
-E:\Users\Коцето\Desktop\bePositive\bePositive\bin\Debug\bePositive.exe
-E:\Users\Коцето\Desktop\bePositive\bePositive\bin\Debug\bePositive.pdb
-E:\Users\Коцето\Desktop\bePositive\bePositive\obj\Debug\bePositive.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\bePositive\bePositive\obj\Debug\bePositive.exe
-E:\Users\Коцето\Desktop\bePositive\bePositive\obj\Debug\bePositive.pdb

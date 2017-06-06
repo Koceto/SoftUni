@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Pairs by Difference\Pairs by Difference\bin\Debug\Pairs by Difference.exe.config
-E:\Users\Коцето\Desktop\Pairs by Difference\Pairs by Difference\bin\Debug\Pairs by Difference.exe
-E:\Users\Коцето\Desktop\Pairs by Difference\Pairs by Difference\bin\Debug\Pairs by Difference.pdb
-E:\Users\Коцето\Desktop\Pairs by Difference\Pairs by Difference\obj\Debug\Pairs by Difference.exe
-E:\Users\Коцето\Desktop\Pairs by Difference\Pairs by Difference\obj\Debug\Pairs by Difference.pdb

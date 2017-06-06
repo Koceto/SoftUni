@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\A Miner Task\A Miner Task\bin\Debug\A Miner Task.exe.config
-E:\Users\Коцето\Desktop\A Miner Task\A Miner Task\bin\Debug\A Miner Task.exe
-E:\Users\Коцето\Desktop\A Miner Task\A Miner Task\bin\Debug\A Miner Task.pdb
-E:\Users\Коцето\Desktop\A Miner Task\A Miner Task\obj\Debug\A Miner Task.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\A Miner Task\A Miner Task\obj\Debug\A Miner Task.exe
-E:\Users\Коцето\Desktop\A Miner Task\A Miner Task\obj\Debug\A Miner Task.pdb

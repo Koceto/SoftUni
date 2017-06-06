@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Count Work Days\Count Work Days\bin\Debug\Count Work Days.exe.config
-E:\Users\Коцето\Desktop\Count Work Days\Count Work Days\bin\Debug\Count Work Days.exe
-E:\Users\Коцето\Desktop\Count Work Days\Count Work Days\bin\Debug\Count Work Days.pdb
-E:\Users\Коцето\Desktop\Count Work Days\Count Work Days\obj\Debug\Count Work Days.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Count Work Days\Count Work Days\obj\Debug\Count Work Days.exe
-E:\Users\Коцето\Desktop\Count Work Days\Count Work Days\obj\Debug\Count Work Days.pdb

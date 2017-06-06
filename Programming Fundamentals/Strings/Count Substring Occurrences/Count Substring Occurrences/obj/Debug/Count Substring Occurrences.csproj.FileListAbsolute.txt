@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Count Substring Occurrences\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe.config
-E:\Users\Коцето\Desktop\Count Substring Occurrences\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe
-E:\Users\Коцето\Desktop\Count Substring Occurrences\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.pdb
-E:\Users\Коцето\Desktop\Count Substring Occurrences\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.exe
-E:\Users\Коцето\Desktop\Count Substring Occurrences\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.pdb

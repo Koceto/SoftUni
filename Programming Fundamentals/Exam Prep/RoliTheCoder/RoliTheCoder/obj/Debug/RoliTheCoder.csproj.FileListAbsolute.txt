@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\RoliTheCoder\RoliTheCoder\bin\Debug\RoliTheCoder.exe.config
-E:\Users\Коцето\Desktop\RoliTheCoder\RoliTheCoder\bin\Debug\RoliTheCoder.exe
-E:\Users\Коцето\Desktop\RoliTheCoder\RoliTheCoder\bin\Debug\RoliTheCoder.pdb
-E:\Users\Коцето\Desktop\RoliTheCoder\RoliTheCoder\obj\Debug\RoliTheCoder.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\RoliTheCoder\RoliTheCoder\obj\Debug\RoliTheCoder.exe
-E:\Users\Коцето\Desktop\RoliTheCoder\RoliTheCoder\obj\Debug\RoliTheCoder.pdb

@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Rounding Numbers\Rounding Numbers\bin\Debug\Rounding Numbers.exe.config
-E:\Users\Коцето\Desktop\Rounding Numbers\Rounding Numbers\bin\Debug\Rounding Numbers.exe
-E:\Users\Коцето\Desktop\Rounding Numbers\Rounding Numbers\bin\Debug\Rounding Numbers.pdb
-E:\Users\Коцето\Desktop\Rounding Numbers\Rounding Numbers\obj\Debug\Rounding Numbers.exe
-E:\Users\Коцето\Desktop\Rounding Numbers\Rounding Numbers\obj\Debug\Rounding Numbers.pdb

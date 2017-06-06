@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Square Numbers\Square Numbers\bin\Debug\Square Numbers.exe.config
-E:\Users\Коцето\Desktop\Square Numbers\Square Numbers\bin\Debug\Square Numbers.exe
-E:\Users\Коцето\Desktop\Square Numbers\Square Numbers\bin\Debug\Square Numbers.pdb
-E:\Users\Коцето\Desktop\Square Numbers\Square Numbers\obj\Debug\Square Numbers.exe
-E:\Users\Коцето\Desktop\Square Numbers\Square Numbers\obj\Debug\Square Numbers.pdb

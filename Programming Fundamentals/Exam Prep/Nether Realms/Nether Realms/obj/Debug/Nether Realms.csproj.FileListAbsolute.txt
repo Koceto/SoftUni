@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Nether Realms\Nether Realms\bin\Debug\Nether Realms.exe.config
-E:\Users\Коцето\Desktop\Nether Realms\Nether Realms\bin\Debug\Nether Realms.exe
-E:\Users\Коцето\Desktop\Nether Realms\Nether Realms\bin\Debug\Nether Realms.pdb
-E:\Users\Коцето\Desktop\Nether Realms\Nether Realms\obj\Debug\Nether Realms.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Nether Realms\Nether Realms\obj\Debug\Nether Realms.exe
-E:\Users\Коцето\Desktop\Nether Realms\Nether Realms\obj\Debug\Nether Realms.pdb

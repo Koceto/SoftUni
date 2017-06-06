@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Index of Letters\Index of Letters\bin\Debug\Index of Letters.exe.config
-E:\Users\Коцето\Desktop\Index of Letters\Index of Letters\bin\Debug\Index of Letters.exe
-E:\Users\Коцето\Desktop\Index of Letters\Index of Letters\bin\Debug\Index of Letters.pdb
-E:\Users\Коцето\Desktop\Index of Letters\Index of Letters\obj\Debug\Index of Letters.exe
-E:\Users\Коцето\Desktop\Index of Letters\Index of Letters\obj\Debug\Index of Letters.pdb

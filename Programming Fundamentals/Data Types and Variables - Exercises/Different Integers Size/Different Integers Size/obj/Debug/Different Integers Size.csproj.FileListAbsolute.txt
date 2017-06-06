@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Different Integers Size\Different Integers Size\bin\Debug\Different Integers Size.exe.config
-E:\Users\Коцето\Desktop\Different Integers Size\Different Integers Size\obj\Debug\Different Integers Size.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Different Integers Size\Different Integers Size\bin\Debug\Different Integers Size.exe
-E:\Users\Коцето\Desktop\Different Integers Size\Different Integers Size\bin\Debug\Different Integers Size.pdb
-E:\Users\Коцето\Desktop\Different Integers Size\Different Integers Size\obj\Debug\Different Integers Size.exe
-E:\Users\Коцето\Desktop\Different Integers Size\Different Integers Size\obj\Debug\Different Integers Size.pdb

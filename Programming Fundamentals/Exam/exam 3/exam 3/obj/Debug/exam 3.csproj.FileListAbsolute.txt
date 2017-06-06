@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\exam 3\exam 3\bin\Debug\exam 3.exe.config
-E:\Users\Коцето\Desktop\exam 3\exam 3\bin\Debug\exam 3.exe
-E:\Users\Коцето\Desktop\exam 3\exam 3\bin\Debug\exam 3.pdb
-E:\Users\Коцето\Desktop\exam 3\exam 3\obj\Debug\exam 3.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\exam 3\exam 3\obj\Debug\exam 3.exe
-E:\Users\Коцето\Desktop\exam 3\exam 3\obj\Debug\exam 3.pdb

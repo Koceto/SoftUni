@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Longer Line\Longer Line\bin\Debug\Longer Line.exe.config
-E:\Users\Коцето\Desktop\Longer Line\Longer Line\bin\Debug\Longer Line.exe
-E:\Users\Коцето\Desktop\Longer Line\Longer Line\bin\Debug\Longer Line.pdb
-E:\Users\Коцето\Desktop\Longer Line\Longer Line\obj\Debug\Longer Line.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Longer Line\Longer Line\obj\Debug\Longer Line.exe
-E:\Users\Коцето\Desktop\Longer Line\Longer Line\obj\Debug\Longer Line.pdb

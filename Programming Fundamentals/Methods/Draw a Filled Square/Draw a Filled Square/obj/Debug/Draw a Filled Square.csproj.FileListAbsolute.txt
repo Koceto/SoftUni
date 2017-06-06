@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Draw a Filled Square\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe.config
-E:\Users\Коцето\Desktop\Draw a Filled Square\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe
-E:\Users\Коцето\Desktop\Draw a Filled Square\Draw a Filled Square\bin\Debug\Draw a Filled Square.pdb
-E:\Users\Коцето\Desktop\Draw a Filled Square\Draw a Filled Square\obj\Debug\Draw a Filled Square.exe
-E:\Users\Коцето\Desktop\Draw a Filled Square\Draw a Filled Square\obj\Debug\Draw a Filled Square.pdb

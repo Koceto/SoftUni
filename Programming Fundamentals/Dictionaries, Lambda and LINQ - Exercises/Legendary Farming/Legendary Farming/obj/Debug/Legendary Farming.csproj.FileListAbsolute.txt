@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Legendary Farming\Legendary Farming\bin\Debug\Legendary Farming.exe.config
-E:\Users\Коцето\Desktop\Legendary Farming\Legendary Farming\bin\Debug\Legendary Farming.exe
-E:\Users\Коцето\Desktop\Legendary Farming\Legendary Farming\bin\Debug\Legendary Farming.pdb
-E:\Users\Коцето\Desktop\Legendary Farming\Legendary Farming\obj\Debug\Legendary Farming.exe
-E:\Users\Коцето\Desktop\Legendary Farming\Legendary Farming\obj\Debug\Legendary Farming.pdb
-E:\Users\Коцето\Desktop\Legendary Farming\Legendary Farming\obj\Debug\Legendary Farming.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Geometry Calculator\Geometry Calculator\bin\Debug\Geometry Calculator.exe.config
-E:\Users\Коцето\Desktop\Geometry Calculator\Geometry Calculator\bin\Debug\Geometry Calculator.exe
-E:\Users\Коцето\Desktop\Geometry Calculator\Geometry Calculator\bin\Debug\Geometry Calculator.pdb
-E:\Users\Коцето\Desktop\Geometry Calculator\Geometry Calculator\obj\Debug\Geometry Calculator.exe
-E:\Users\Коцето\Desktop\Geometry Calculator\Geometry Calculator\obj\Debug\Geometry Calculator.pdb

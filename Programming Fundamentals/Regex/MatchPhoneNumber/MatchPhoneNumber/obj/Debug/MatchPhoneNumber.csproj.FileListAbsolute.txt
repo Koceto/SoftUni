@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\MatchPhoneNumber\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
-E:\Users\Коцето\Desktop\MatchPhoneNumber\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
-E:\Users\Коцето\Desktop\MatchPhoneNumber\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
-E:\Users\Коцето\Desktop\MatchPhoneNumber\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
-E:\Users\Коцето\Desktop\MatchPhoneNumber\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Instruction Set\Instruction Set\bin\Debug\Instruction Set.exe.config
-E:\Users\Коцето\Desktop\Instruction Set\Instruction Set\bin\Debug\Instruction Set.exe
-E:\Users\Коцето\Desktop\Instruction Set\Instruction Set\bin\Debug\Instruction Set.pdb
-E:\Users\Коцето\Desktop\Instruction Set\Instruction Set\obj\Debug\Instruction Set.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Instruction Set\Instruction Set\obj\Debug\Instruction Set.exe
-E:\Users\Коцето\Desktop\Instruction Set\Instruction Set\obj\Debug\Instruction Set.pdb

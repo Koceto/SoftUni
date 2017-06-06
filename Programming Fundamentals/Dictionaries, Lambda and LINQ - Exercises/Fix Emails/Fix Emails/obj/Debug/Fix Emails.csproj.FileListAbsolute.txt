@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Fix Emails\Fix Emails\bin\Debug\Fix Emails.exe.config
-E:\Users\Коцето\Desktop\Fix Emails\Fix Emails\bin\Debug\Fix Emails.exe
-E:\Users\Коцето\Desktop\Fix Emails\Fix Emails\bin\Debug\Fix Emails.pdb
-E:\Users\Коцето\Desktop\Fix Emails\Fix Emails\obj\Debug\Fix Emails.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Fix Emails\Fix Emails\obj\Debug\Fix Emails.exe
-E:\Users\Коцето\Desktop\Fix Emails\Fix Emails\obj\Debug\Fix Emails.pdb

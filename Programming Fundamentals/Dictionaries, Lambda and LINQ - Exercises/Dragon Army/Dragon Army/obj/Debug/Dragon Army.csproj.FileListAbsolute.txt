@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Dragon Army\Dragon Army\bin\Debug\Dragon Army.exe.config
-E:\Users\Коцето\Desktop\Dragon Army\Dragon Army\bin\Debug\Dragon Army.exe
-E:\Users\Коцето\Desktop\Dragon Army\Dragon Army\bin\Debug\Dragon Army.pdb
-E:\Users\Коцето\Desktop\Dragon Army\Dragon Army\obj\Debug\Dragon Army.exe
-E:\Users\Коцето\Desktop\Dragon Army\Dragon Army\obj\Debug\Dragon Army.pdb

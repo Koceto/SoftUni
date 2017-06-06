@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Comparing floats\Comparing floats\bin\Debug\Comparing floats.exe.config
-E:\Users\Коцето\Desktop\Comparing floats\Comparing floats\bin\Debug\Comparing floats.exe
-E:\Users\Коцето\Desktop\Comparing floats\Comparing floats\bin\Debug\Comparing floats.pdb
-E:\Users\Коцето\Desktop\Comparing floats\Comparing floats\obj\Debug\Comparing floats.exe
-E:\Users\Коцето\Desktop\Comparing floats\Comparing floats\obj\Debug\Comparing floats.pdb

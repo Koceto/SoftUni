@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Cube Properties\Cube Properties\bin\Debug\Cube Properties.exe.config
-E:\Users\Коцето\Desktop\Cube Properties\Cube Properties\bin\Debug\Cube Properties.exe
-E:\Users\Коцето\Desktop\Cube Properties\Cube Properties\bin\Debug\Cube Properties.pdb
-E:\Users\Коцето\Desktop\Cube Properties\Cube Properties\obj\Debug\Cube Properties.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Cube Properties\Cube Properties\obj\Debug\Cube Properties.exe
-E:\Users\Коцето\Desktop\Cube Properties\Cube Properties\obj\Debug\Cube Properties.pdb

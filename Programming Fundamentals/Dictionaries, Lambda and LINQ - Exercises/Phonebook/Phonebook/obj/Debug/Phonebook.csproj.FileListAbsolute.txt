@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
-E:\Users\Коцето\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe
-E:\Users\Коцето\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
-E:\Users\Коцето\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.exe
-E:\Users\Коцето\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.pdb

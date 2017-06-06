@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\SweetDessert\SweetDessert\bin\Debug\SweetDessert.exe.config
-E:\Users\Коцето\Desktop\SweetDessert\SweetDessert\bin\Debug\SweetDessert.exe
-E:\Users\Коцето\Desktop\SweetDessert\SweetDessert\bin\Debug\SweetDessert.pdb
-E:\Users\Коцето\Desktop\SweetDessert\SweetDessert\obj\Debug\SweetDessert.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\SweetDessert\SweetDessert\obj\Debug\SweetDessert.exe
-E:\Users\Коцето\Desktop\SweetDessert\SweetDessert\obj\Debug\SweetDessert.pdb

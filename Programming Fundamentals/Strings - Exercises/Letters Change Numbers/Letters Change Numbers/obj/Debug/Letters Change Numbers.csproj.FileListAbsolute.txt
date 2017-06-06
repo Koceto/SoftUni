@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Letters Change Numbers\Letters Change Numbers\bin\Debug\Letters Change Numbers.exe.config
-E:\Users\Коцето\Desktop\Letters Change Numbers\Letters Change Numbers\bin\Debug\Letters Change Numbers.exe
-E:\Users\Коцето\Desktop\Letters Change Numbers\Letters Change Numbers\bin\Debug\Letters Change Numbers.pdb
-E:\Users\Коцето\Desktop\Letters Change Numbers\Letters Change Numbers\obj\Debug\Letters Change Numbers.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Letters Change Numbers\Letters Change Numbers\obj\Debug\Letters Change Numbers.exe
-E:\Users\Коцето\Desktop\Letters Change Numbers\Letters Change Numbers\obj\Debug\Letters Change Numbers.pdb

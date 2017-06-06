@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\CubicMessages\CubicMessages\bin\Debug\CubicMessages.exe.config
-E:\Users\Коцето\Desktop\CubicMessages\CubicMessages\bin\Debug\CubicMessages.exe
-E:\Users\Коцето\Desktop\CubicMessages\CubicMessages\bin\Debug\CubicMessages.pdb
-E:\Users\Коцето\Desktop\CubicMessages\CubicMessages\obj\Debug\CubicMessages.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\CubicMessages\CubicMessages\obj\Debug\CubicMessages.exe
-E:\Users\Коцето\Desktop\CubicMessages\CubicMessages\obj\Debug\CubicMessages.pdb

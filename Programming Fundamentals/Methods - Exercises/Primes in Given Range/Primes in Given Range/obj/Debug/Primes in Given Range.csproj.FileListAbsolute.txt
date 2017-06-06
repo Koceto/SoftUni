@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Primes in Given Range\Primes in Given Range\bin\Debug\Primes in Given Range.exe.config
-E:\Users\Коцето\Desktop\Primes in Given Range\Primes in Given Range\obj\Debug\Primes in Given Range.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Primes in Given Range\Primes in Given Range\bin\Debug\Primes in Given Range.exe
-E:\Users\Коцето\Desktop\Primes in Given Range\Primes in Given Range\bin\Debug\Primes in Given Range.pdb
-E:\Users\Коцето\Desktop\Primes in Given Range\Primes in Given Range\obj\Debug\Primes in Given Range.exe
-E:\Users\Коцето\Desktop\Primes in Given Range\Primes in Given Range\obj\Debug\Primes in Given Range.pdb

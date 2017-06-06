@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Calculate Triangle Area\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe.config
-E:\Users\Коцето\Desktop\Calculate Triangle Area\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe
-E:\Users\Коцето\Desktop\Calculate Triangle Area\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.pdb
-E:\Users\Коцето\Desktop\Calculate Triangle Area\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.exe
-E:\Users\Коцето\Desktop\Calculate Triangle Area\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.pdb

@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Reverse Array of Integers\Reverse Array of Integers\bin\Debug\Reverse Array of Integers.exe.config
-E:\Users\Коцето\Desktop\Reverse Array of Integers\Reverse Array of Integers\bin\Debug\Reverse Array of Integers.exe
-E:\Users\Коцето\Desktop\Reverse Array of Integers\Reverse Array of Integers\bin\Debug\Reverse Array of Integers.pdb
-E:\Users\Коцето\Desktop\Reverse Array of Integers\Reverse Array of Integers\obj\Debug\Reverse Array of Integers.exe
-E:\Users\Коцето\Desktop\Reverse Array of Integers\Reverse Array of Integers\obj\Debug\Reverse Array of Integers.pdb

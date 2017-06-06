@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Factorial\Factorial\bin\Debug\Factorial.exe.config
-E:\Users\Коцето\Desktop\Factorial\Factorial\bin\Debug\Factorial.exe
-E:\Users\Коцето\Desktop\Factorial\Factorial\bin\Debug\Factorial.pdb
-E:\Users\Коцето\Desktop\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Factorial\Factorial\obj\Debug\Factorial.exe
-E:\Users\Коцето\Desktop\Factorial\Factorial\obj\Debug\Factorial.pdb

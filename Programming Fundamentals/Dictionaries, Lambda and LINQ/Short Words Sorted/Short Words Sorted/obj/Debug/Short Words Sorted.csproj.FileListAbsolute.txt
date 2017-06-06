@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Short Words Sorted\Short Words Sorted\bin\Debug\Short Words Sorted.exe.config
-E:\Users\Коцето\Desktop\Short Words Sorted\Short Words Sorted\bin\Debug\Short Words Sorted.exe
-E:\Users\Коцето\Desktop\Short Words Sorted\Short Words Sorted\bin\Debug\Short Words Sorted.pdb
-E:\Users\Коцето\Desktop\Short Words Sorted\Short Words Sorted\obj\Debug\Short Words Sorted.exe
-E:\Users\Коцето\Desktop\Short Words Sorted\Short Words Sorted\obj\Debug\Short Words Sorted.pdb

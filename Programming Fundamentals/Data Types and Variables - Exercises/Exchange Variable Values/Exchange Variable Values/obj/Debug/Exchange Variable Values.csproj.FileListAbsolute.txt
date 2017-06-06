@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Exchange Variable Values\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe.config
-E:\Users\Коцето\Desktop\Exchange Variable Values\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe
-E:\Users\Коцето\Desktop\Exchange Variable Values\Exchange Variable Values\bin\Debug\Exchange Variable Values.pdb
-E:\Users\Коцето\Desktop\Exchange Variable Values\Exchange Variable Values\obj\Debug\Exchange Variable Values.exe
-E:\Users\Коцето\Desktop\Exchange Variable Values\Exchange Variable Values\obj\Debug\Exchange Variable Values.pdb

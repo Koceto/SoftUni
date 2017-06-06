@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Strings And Objects\Strings And Objects\bin\Debug\Strings And Objects.exe.config
-E:\Users\Коцето\Desktop\Strings And Objects\Strings And Objects\bin\Debug\Strings And Objects.exe
-E:\Users\Коцето\Desktop\Strings And Objects\Strings And Objects\bin\Debug\Strings And Objects.pdb
-E:\Users\Коцето\Desktop\Strings And Objects\Strings And Objects\obj\Debug\Strings And Objects.exe
-E:\Users\Коцето\Desktop\Strings And Objects\Strings And Objects\obj\Debug\Strings And Objects.pdb

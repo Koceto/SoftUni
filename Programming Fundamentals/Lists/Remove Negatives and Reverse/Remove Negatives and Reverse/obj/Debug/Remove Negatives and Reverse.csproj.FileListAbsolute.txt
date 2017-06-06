@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.exe.config
-E:\Users\Коцето\Desktop\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.exe
-E:\Users\Коцето\Desktop\Remove Negatives and Reverse\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.pdb
-E:\Users\Коцето\Desktop\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.exe
-E:\Users\Коцето\Desktop\Remove Negatives and Reverse\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.pdb

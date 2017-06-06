@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Sales Report\Sales Report\bin\Debug\Sales Report.exe.config
-E:\Users\Коцето\Desktop\Sales Report\Sales Report\bin\Debug\Sales Report.exe
-E:\Users\Коцето\Desktop\Sales Report\Sales Report\bin\Debug\Sales Report.pdb
-E:\Users\Коцето\Desktop\Sales Report\Sales Report\obj\Debug\Sales Report.exe
-E:\Users\Коцето\Desktop\Sales Report\Sales Report\obj\Debug\Sales Report.pdb

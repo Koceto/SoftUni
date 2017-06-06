@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Practice Floating Point Numbers\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe.config
-E:\Users\Коцето\Desktop\Practice Floating Point Numbers\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe
-E:\Users\Коцето\Desktop\Practice Floating Point Numbers\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.pdb
-E:\Users\Коцето\Desktop\Practice Floating Point Numbers\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.exe
-E:\Users\Коцето\Desktop\Practice Floating Point Numbers\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.pdb

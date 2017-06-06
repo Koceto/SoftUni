@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Fibonacci Numbers\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.exe.config
-E:\Users\Коцето\Desktop\Fibonacci Numbers\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.exe
-E:\Users\Коцето\Desktop\Fibonacci Numbers\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.pdb
-E:\Users\Коцето\Desktop\Fibonacci Numbers\Fibonacci Numbers\obj\Debug\Fibonacci Numbers.exe
-E:\Users\Коцето\Desktop\Fibonacci Numbers\Fibonacci Numbers\obj\Debug\Fibonacci Numbers.pdb

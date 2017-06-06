@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Prime Checker\Prime Checker\bin\Debug\Prime Checker.exe.config
-E:\Users\Коцето\Desktop\Prime Checker\Prime Checker\bin\Debug\Prime Checker.exe
-E:\Users\Коцето\Desktop\Prime Checker\Prime Checker\bin\Debug\Prime Checker.pdb
-E:\Users\Коцето\Desktop\Prime Checker\Prime Checker\obj\Debug\Prime Checker.exe
-E:\Users\Коцето\Desktop\Prime Checker\Prime Checker\obj\Debug\Prime Checker.pdb

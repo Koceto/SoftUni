@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Practice Chars And Strings\Practice Chars And Strings\bin\Debug\Practice Chars And Strings.exe.config
-E:\Users\Коцето\Desktop\Practice Chars And Strings\Practice Chars And Strings\bin\Debug\Practice Chars And Strings.exe
-E:\Users\Коцето\Desktop\Practice Chars And Strings\Practice Chars And Strings\bin\Debug\Practice Chars And Strings.pdb
-E:\Users\Коцето\Desktop\Practice Chars And Strings\Practice Chars And Strings\obj\Debug\Practice Chars And Strings.exe
-E:\Users\Коцето\Desktop\Practice Chars And Strings\Practice Chars And Strings\obj\Debug\Practice Chars And Strings.pdb

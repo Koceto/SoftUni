@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\SoftuniCoffee\SoftuniCoffee\bin\Debug\SoftuniCoffee.exe.config
-E:\Users\Коцето\Desktop\SoftuniCoffee\SoftuniCoffee\bin\Debug\SoftuniCoffee.exe
-E:\Users\Коцето\Desktop\SoftuniCoffee\SoftuniCoffee\bin\Debug\SoftuniCoffee.pdb
-E:\Users\Коцето\Desktop\SoftuniCoffee\SoftuniCoffee\obj\Debug\SoftuniCoffee.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\SoftuniCoffee\SoftuniCoffee\obj\Debug\SoftuniCoffee.exe
-E:\Users\Коцето\Desktop\SoftuniCoffee\SoftuniCoffee\obj\Debug\SoftuniCoffee.pdb

@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Largest Common End\Largest Common End\bin\Debug\Largest Common End.exe.config
-E:\Users\Коцето\Desktop\Largest Common End\Largest Common End\bin\Debug\Largest Common End.exe
-E:\Users\Коцето\Desktop\Largest Common End\Largest Common End\bin\Debug\Largest Common End.pdb
-E:\Users\Коцето\Desktop\Largest Common End\Largest Common End\obj\Debug\Largest Common End.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Largest Common End\Largest Common End\obj\Debug\Largest Common End.exe
-E:\Users\Коцето\Desktop\Largest Common End\Largest Common End\obj\Debug\Largest Common End.pdb

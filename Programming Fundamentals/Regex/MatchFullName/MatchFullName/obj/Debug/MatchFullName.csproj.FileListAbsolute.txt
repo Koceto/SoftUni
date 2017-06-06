@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\MatchFullName\MatchFullName\bin\Debug\MatchFullName.exe.config
-E:\Users\Коцето\Desktop\MatchFullName\MatchFullName\bin\Debug\MatchFullName.exe
-E:\Users\Коцето\Desktop\MatchFullName\MatchFullName\bin\Debug\MatchFullName.pdb
-E:\Users\Коцето\Desktop\MatchFullName\MatchFullName\obj\Debug\MatchFullName.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\MatchFullName\MatchFullName\obj\Debug\MatchFullName.exe
-E:\Users\Коцето\Desktop\MatchFullName\MatchFullName\obj\Debug\MatchFullName.pdb

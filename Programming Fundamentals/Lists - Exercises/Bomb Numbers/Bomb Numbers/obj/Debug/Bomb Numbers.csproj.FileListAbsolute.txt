@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Bomb Numbers\Bomb Numbers\bin\Debug\Bomb Numbers.exe.config
-E:\Users\Коцето\Desktop\Bomb Numbers\Bomb Numbers\bin\Debug\Bomb Numbers.exe
-E:\Users\Коцето\Desktop\Bomb Numbers\Bomb Numbers\bin\Debug\Bomb Numbers.pdb
-E:\Users\Коцето\Desktop\Bomb Numbers\Bomb Numbers\obj\Debug\Bomb Numbers.exe
-E:\Users\Коцето\Desktop\Bomb Numbers\Bomb Numbers\obj\Debug\Bomb Numbers.pdb
-E:\Users\Коцето\Desktop\Bomb Numbers\Bomb Numbers\obj\Debug\Bomb Numbers.csprojResolveAssemblyReference.cache

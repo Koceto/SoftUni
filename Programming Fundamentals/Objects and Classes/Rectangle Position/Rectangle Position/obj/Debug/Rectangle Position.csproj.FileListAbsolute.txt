@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Rectangle Position\Rectangle Position\bin\Debug\Rectangle Position.exe.config
-E:\Users\Коцето\Desktop\Rectangle Position\Rectangle Position\bin\Debug\Rectangle Position.exe
-E:\Users\Коцето\Desktop\Rectangle Position\Rectangle Position\bin\Debug\Rectangle Position.pdb
-E:\Users\Коцето\Desktop\Rectangle Position\Rectangle Position\obj\Debug\Rectangle Position.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Rectangle Position\Rectangle Position\obj\Debug\Rectangle Position.exe
-E:\Users\Коцето\Desktop\Rectangle Position\Rectangle Position\obj\Debug\Rectangle Position.pdb

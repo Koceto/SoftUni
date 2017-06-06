@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\EqualSums\EqualSums\bin\Debug\EqualSums.exe.config
-E:\Users\Коцето\Desktop\EqualSums\EqualSums\bin\Debug\EqualSums.exe
-E:\Users\Коцето\Desktop\EqualSums\EqualSums\bin\Debug\EqualSums.pdb
-E:\Users\Коцето\Desktop\EqualSums\EqualSums\obj\Debug\EqualSums.exe
-E:\Users\Коцето\Desktop\EqualSums\EqualSums\obj\Debug\EqualSums.pdb

@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Price Change Alert\Price Change Alert\bin\Debug\Price Change Alert.exe.config
-E:\Users\Коцето\Desktop\Price Change Alert\Price Change Alert\bin\Debug\Price Change Alert.exe
-E:\Users\Коцето\Desktop\Price Change Alert\Price Change Alert\bin\Debug\Price Change Alert.pdb
-E:\Users\Коцето\Desktop\Price Change Alert\Price Change Alert\obj\Debug\Price Change Alert.exe
-E:\Users\Коцето\Desktop\Price Change Alert\Price Change Alert\obj\Debug\Price Change Alert.pdb

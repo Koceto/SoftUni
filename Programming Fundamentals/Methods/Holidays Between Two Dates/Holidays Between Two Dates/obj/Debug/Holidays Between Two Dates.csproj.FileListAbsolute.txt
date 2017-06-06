@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Holidays Between Two Dates\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.exe.config
-E:\Users\Коцето\Desktop\Holidays Between Two Dates\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.exe
-E:\Users\Коцето\Desktop\Holidays Between Two Dates\Holidays Between Two Dates\bin\Debug\Holidays Between Two Dates.pdb
-E:\Users\Коцето\Desktop\Holidays Between Two Dates\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.exe
-E:\Users\Коцето\Desktop\Holidays Between Two Dates\Holidays Between Two Dates\obj\Debug\Holidays Between Two Dates.pdb

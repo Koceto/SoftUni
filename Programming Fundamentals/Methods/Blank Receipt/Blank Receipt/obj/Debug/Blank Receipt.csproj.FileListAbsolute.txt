@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Blank Receipt\Blank Receipt\bin\Debug\Blank Receipt.exe.config
-E:\Users\Коцето\Desktop\Blank Receipt\Blank Receipt\bin\Debug\Blank Receipt.exe
-E:\Users\Коцето\Desktop\Blank Receipt\Blank Receipt\bin\Debug\Blank Receipt.pdb
-E:\Users\Коцето\Desktop\Blank Receipt\Blank Receipt\obj\Debug\Blank Receipt.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Blank Receipt\Blank Receipt\obj\Debug\Blank Receipt.exe
-E:\Users\Коцето\Desktop\Blank Receipt\Blank Receipt\obj\Debug\Blank Receipt.pdb

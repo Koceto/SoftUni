@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Word Count\Word Count\bin\Debug\Word Count.exe.config
-E:\Users\Коцето\Desktop\Word Count\Word Count\bin\Debug\Word Count.exe
-E:\Users\Коцето\Desktop\Word Count\Word Count\bin\Debug\Word Count.pdb
-E:\Users\Коцето\Desktop\Word Count\Word Count\obj\Debug\Word Count.exe
-E:\Users\Коцето\Desktop\Word Count\Word Count\obj\Debug\Word Count.pdb

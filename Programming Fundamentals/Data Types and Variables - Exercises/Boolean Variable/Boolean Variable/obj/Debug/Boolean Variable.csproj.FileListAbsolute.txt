@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Boolean Variable\Boolean Variable\bin\Debug\Boolean Variable.exe.config
-E:\Users\Коцето\Desktop\Boolean Variable\Boolean Variable\bin\Debug\Boolean Variable.exe
-E:\Users\Коцето\Desktop\Boolean Variable\Boolean Variable\bin\Debug\Boolean Variable.pdb
-E:\Users\Коцето\Desktop\Boolean Variable\Boolean Variable\obj\Debug\Boolean Variable.exe
-E:\Users\Коцето\Desktop\Boolean Variable\Boolean Variable\obj\Debug\Boolean Variable.pdb

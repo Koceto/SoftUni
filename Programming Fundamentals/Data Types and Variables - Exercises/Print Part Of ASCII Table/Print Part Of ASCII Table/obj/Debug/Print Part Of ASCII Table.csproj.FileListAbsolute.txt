@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.exe.config
-E:\Users\Коцето\Desktop\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.exe
-E:\Users\Коцето\Desktop\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\Print Part Of ASCII Table.pdb
-E:\Users\Коцето\Desktop\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.exe
-E:\Users\Коцето\Desktop\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\Print Part Of ASCII Table.pdb

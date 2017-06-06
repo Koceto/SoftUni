@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\FootballLeagueTheSecond\FootballLeagueTheSecond\bin\Debug\FootballLeagueTheSecond.exe.config
-E:\Users\Коцето\Desktop\FootballLeagueTheSecond\FootballLeagueTheSecond\bin\Debug\FootballLeagueTheSecond.exe
-E:\Users\Коцето\Desktop\FootballLeagueTheSecond\FootballLeagueTheSecond\bin\Debug\FootballLeagueTheSecond.pdb
-E:\Users\Коцето\Desktop\FootballLeagueTheSecond\FootballLeagueTheSecond\obj\Debug\FootballLeagueTheSecond.exe
-E:\Users\Коцето\Desktop\FootballLeagueTheSecond\FootballLeagueTheSecond\obj\Debug\FootballLeagueTheSecond.pdb

@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Count Real Numbers\Count Real Numbers\bin\Debug\Count Real Numbers.exe.config
-E:\Users\Коцето\Desktop\Count Real Numbers\Count Real Numbers\bin\Debug\Count Real Numbers.exe
-E:\Users\Коцето\Desktop\Count Real Numbers\Count Real Numbers\bin\Debug\Count Real Numbers.pdb
-E:\Users\Коцето\Desktop\Count Real Numbers\Count Real Numbers\obj\Debug\Count Real Numbers.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Count Real Numbers\Count Real Numbers\obj\Debug\Count Real Numbers.exe
-E:\Users\Коцето\Desktop\Count Real Numbers\Count Real Numbers\obj\Debug\Count Real Numbers.pdb

@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Phonebook Upgrade\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe.config
-E:\Users\Коцето\Desktop\Phonebook Upgrade\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe
-E:\Users\Коцето\Desktop\Phonebook Upgrade\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.pdb
-E:\Users\Коцето\Desktop\Phonebook Upgrade\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.exe
-E:\Users\Коцето\Desktop\Phonebook Upgrade\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.pdb

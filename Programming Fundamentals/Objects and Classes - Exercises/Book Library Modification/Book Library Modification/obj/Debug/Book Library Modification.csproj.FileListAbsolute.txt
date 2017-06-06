@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Book Library Modification\Book Library Modification\bin\Debug\Book Library Modification.exe.config
-E:\Users\Коцето\Desktop\Book Library Modification\Book Library Modification\bin\Debug\Book Library Modification.exe
-E:\Users\Коцето\Desktop\Book Library Modification\Book Library Modification\bin\Debug\Book Library Modification.pdb
-E:\Users\Коцето\Desktop\Book Library Modification\Book Library Modification\obj\Debug\Book Library Modification.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Book Library Modification\Book Library Modification\obj\Debug\Book Library Modification.exe
-E:\Users\Коцето\Desktop\Book Library Modification\Book Library Modification\obj\Debug\Book Library Modification.pdb

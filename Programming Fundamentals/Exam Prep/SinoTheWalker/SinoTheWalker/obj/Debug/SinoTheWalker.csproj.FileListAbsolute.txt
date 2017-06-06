@@ -1,9 +1,0 @@
-E:\Users\Коцето\Desktop\SinoTheWalker\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
-E:\Users\Коцето\Desktop\SinoTheWalker\SinoTheWalker\bin\Debug\SinoTheWalker.exe
-E:\Users\Коцето\Desktop\SinoTheWalker\SinoTheWalker\bin\Debug\SinoTheWalker.pdb
-E:\Users\Коцето\Desktop\SinoTheWalker\SinoTheWalker\obj\Debug\SinoTheWalker.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\SinoTheWalker\SinoTheWalker\obj\Debug\SinoTheWalker.exe
-E:\Users\Коцето\Desktop\SinoTheWalker\SinoTheWalker\obj\Debug\SinoTheWalker.pdb
-E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\SinoTheWalker\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
-E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\SinoTheWalker\SinoTheWalker\obj\Debug\SinoTheWalker.exe
-E:\Users\Коцето\Desktop\SoftUni\Programming Fundamentals\Exam Prep\SinoTheWalker\SinoTheWalker\obj\Debug\SinoTheWalker.pdb

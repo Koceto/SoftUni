@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
-E:\Users\Коцето\Desktop\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
-E:\Users\Коцето\Desktop\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
-E:\Users\Коцето\Desktop\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
-E:\Users\Коцето\Desktop\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

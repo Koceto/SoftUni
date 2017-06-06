@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Practice Integers\Practice Integers\bin\Debug\Practice Integers.exe.config
-E:\Users\Коцето\Desktop\Practice Integers\Practice Integers\bin\Debug\Practice Integers.exe
-E:\Users\Коцето\Desktop\Practice Integers\Practice Integers\bin\Debug\Practice Integers.pdb
-E:\Users\Коцето\Desktop\Practice Integers\Practice Integers\obj\Debug\Practice Integers.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Practice Integers\Practice Integers\obj\Debug\Practice Integers.exe
-E:\Users\Коцето\Desktop\Practice Integers\Practice Integers\obj\Debug\Practice Integers.pdb

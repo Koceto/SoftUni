@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\TrophontheGrumpyCat\TrophontheGrumpyCat\bin\Debug\TrophontheGrumpyCat.exe.config
-E:\Users\Коцето\Desktop\TrophontheGrumpyCat\TrophontheGrumpyCat\bin\Debug\TrophontheGrumpyCat.exe
-E:\Users\Коцето\Desktop\TrophontheGrumpyCat\TrophontheGrumpyCat\bin\Debug\TrophontheGrumpyCat.pdb
-E:\Users\Коцето\Desktop\TrophontheGrumpyCat\TrophontheGrumpyCat\obj\Debug\TrophontheGrumpyCat.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\TrophontheGrumpyCat\TrophontheGrumpyCat\obj\Debug\TrophontheGrumpyCat.exe
-E:\Users\Коцето\Desktop\TrophontheGrumpyCat\TrophontheGrumpyCat\obj\Debug\TrophontheGrumpyCat.pdb

@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Extract Middle Elements\Extract Middle Elements\bin\Debug\Extract Middle Elements.exe.config
-E:\Users\Коцето\Desktop\Extract Middle Elements\Extract Middle Elements\bin\Debug\Extract Middle Elements.exe
-E:\Users\Коцето\Desktop\Extract Middle Elements\Extract Middle Elements\bin\Debug\Extract Middle Elements.pdb
-E:\Users\Коцето\Desktop\Extract Middle Elements\Extract Middle Elements\obj\Debug\Extract Middle Elements.exe
-E:\Users\Коцето\Desktop\Extract Middle Elements\Extract Middle Elements\obj\Debug\Extract Middle Elements.pdb

@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Unicode Characters\Unicode Characters\bin\Debug\Unicode Characters.exe.config
-E:\Users\Коцето\Desktop\Unicode Characters\Unicode Characters\bin\Debug\Unicode Characters.exe
-E:\Users\Коцето\Desktop\Unicode Characters\Unicode Characters\bin\Debug\Unicode Characters.pdb
-E:\Users\Коцето\Desktop\Unicode Characters\Unicode Characters\obj\Debug\Unicode Characters.exe
-E:\Users\Коцето\Desktop\Unicode Characters\Unicode Characters\obj\Debug\Unicode Characters.pdb

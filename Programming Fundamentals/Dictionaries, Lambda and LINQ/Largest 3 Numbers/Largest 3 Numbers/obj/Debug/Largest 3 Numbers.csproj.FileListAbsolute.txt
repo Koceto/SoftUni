@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\Largest 3 Numbers\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe.config
-E:\Users\Коцето\Desktop\Largest 3 Numbers\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe
-E:\Users\Коцето\Desktop\Largest 3 Numbers\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.pdb
-E:\Users\Коцето\Desktop\Largest 3 Numbers\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.exe
-E:\Users\Коцето\Desktop\Largest 3 Numbers\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.pdb

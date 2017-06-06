@@ -1,5 +1,0 @@
-E:\Users\Коцето\Desktop\center Point\center Point\bin\Debug\center Point.exe.config
-E:\Users\Коцето\Desktop\center Point\center Point\bin\Debug\center Point.exe
-E:\Users\Коцето\Desktop\center Point\center Point\bin\Debug\center Point.pdb
-E:\Users\Коцето\Desktop\center Point\center Point\obj\Debug\center Point.exe
-E:\Users\Коцето\Desktop\center Point\center Point\obj\Debug\center Point.pdb

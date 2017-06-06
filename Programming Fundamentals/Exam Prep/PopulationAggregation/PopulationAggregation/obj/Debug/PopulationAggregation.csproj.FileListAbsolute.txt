@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\PopulationAggregation\PopulationAggregation\bin\Debug\PopulationAggregation.exe.config
-E:\Users\Коцето\Desktop\PopulationAggregation\PopulationAggregation\bin\Debug\PopulationAggregation.exe
-E:\Users\Коцето\Desktop\PopulationAggregation\PopulationAggregation\bin\Debug\PopulationAggregation.pdb
-E:\Users\Коцето\Desktop\PopulationAggregation\PopulationAggregation\obj\Debug\PopulationAggregation.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\PopulationAggregation\PopulationAggregation\obj\Debug\PopulationAggregation.exe
-E:\Users\Коцето\Desktop\PopulationAggregation\PopulationAggregation\obj\Debug\PopulationAggregation.pdb

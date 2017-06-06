@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\English Name of Last Digit\English Name of Last Digit\bin\Debug\English Name of Last Digit.exe.config
-E:\Users\Коцето\Desktop\English Name of Last Digit\English Name of Last Digit\obj\Debug\English Name of Last Digit.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\English Name of Last Digit\English Name of Last Digit\bin\Debug\English Name of Last Digit.exe
-E:\Users\Коцето\Desktop\English Name of Last Digit\English Name of Last Digit\bin\Debug\English Name of Last Digit.pdb
-E:\Users\Коцето\Desktop\English Name of Last Digit\English Name of Last Digit\obj\Debug\English Name of Last Digit.exe
-E:\Users\Коцето\Desktop\English Name of Last Digit\English Name of Last Digit\obj\Debug\English Name of Last Digit.pdb

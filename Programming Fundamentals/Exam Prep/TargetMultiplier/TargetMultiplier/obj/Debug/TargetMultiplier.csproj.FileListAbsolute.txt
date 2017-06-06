@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\TargetMultiplier\TargetMultiplier\bin\Debug\TargetMultiplier.exe.config
-E:\Users\Коцето\Desktop\TargetMultiplier\TargetMultiplier\obj\Debug\TargetMultiplier.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\TargetMultiplier\TargetMultiplier\bin\Debug\TargetMultiplier.exe
-E:\Users\Коцето\Desktop\TargetMultiplier\TargetMultiplier\bin\Debug\TargetMultiplier.pdb
-E:\Users\Коцето\Desktop\TargetMultiplier\TargetMultiplier\obj\Debug\TargetMultiplier.exe
-E:\Users\Коцето\Desktop\TargetMultiplier\TargetMultiplier\obj\Debug\TargetMultiplier.pdb

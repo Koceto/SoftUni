@@ -1,6 +1,0 @@
-E:\Users\Коцето\Desktop\Palindromes\Palindromes\bin\Debug\Palindromes.exe.config
-E:\Users\Коцето\Desktop\Palindromes\Palindromes\bin\Debug\Palindromes.exe
-E:\Users\Коцето\Desktop\Palindromes\Palindromes\bin\Debug\Palindromes.pdb
-E:\Users\Коцето\Desktop\Palindromes\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
-E:\Users\Коцето\Desktop\Palindromes\Palindromes\obj\Debug\Palindromes.exe
-E:\Users\Коцето\Desktop\Palindromes\Palindromes\obj\Debug\Palindromes.pdb
