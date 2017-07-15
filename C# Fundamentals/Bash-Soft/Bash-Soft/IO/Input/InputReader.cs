@@ -5,8 +5,14 @@ namespace Bash_Soft
     public class InputReader
     {
         private const string endCommand = "quit";
+        private CommandInterpreter interpreter;
 
-        public static void StartReadingCommands()
+        public InputReader(CommandInterpreter interpreter)
+        {
+            this.interpreter = interpreter;
+        }
+
+        public void StartReadingCommands()
         {
             OutputWriter.WriteMessage("Would you like to read the database automatically?");
             OutputWriter.WriteMessage("[y/n]>");
@@ -14,11 +20,11 @@ namespace Bash_Soft
 
             if (answer[0] == 'y')
             {
-                CommandInterpreter.InterpredCommand("cdRel ..");
-                CommandInterpreter.InterpredCommand("cdRel ..");
-                CommandInterpreter.InterpredCommand("readDb data.txt");
+                this.interpreter.InterpredCommand("cdRel ..");
+                this.interpreter.InterpredCommand("cdRel ..");
+                this.interpreter.InterpredCommand("readDb data.txt");
             }
-            
+
             OutputWriter.WriteMessage("Don't forget you could use \"help\" to display all the commands.");
             OutputWriter.WriteEmptyLine();
 
@@ -32,7 +38,7 @@ namespace Bash_Soft
                     return;
                 }
 
-                CommandInterpreter.InterpredCommand(input);
+                this.interpreter.InterpredCommand(input);
             }
         }
     }

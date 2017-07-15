@@ -1,11 +1,12 @@
 ﻿using System;
 using System.IO;
+using Bash_Soft.Exceptions;
 
 namespace Bash_Soft
 {
     public class Tester
     {
-        public static void CompaeContent(string userOutputPath, string expectedOutputPath)
+        public void CompaeContent(string userOutputPath, string expectedOutputPath)
         {
             OutputWriter.WriteMessageOnNewLine("Reading files...");
 
@@ -24,11 +25,11 @@ namespace Bash_Soft
             }
             catch (FileNotFoundException)
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
+                throw new InvalidPathException();
             }
         }
 
-        private static void PrintOutput(string[] mismatches, bool hasMismatches, string mismatchPath)
+        private void PrintOutput(string[] mismatches, bool hasMismatches, string mismatchPath)
         {
             if (hasMismatches)
             {
@@ -43,7 +44,7 @@ namespace Bash_Soft
                 }
                 catch (DirectoryNotFoundException)
                 {
-                    OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
+                    throw new InvalidPathException();
                 }
 
                 return;
@@ -52,7 +53,7 @@ namespace Bash_Soft
             OutputWriter.WriteMessageOnNewLine("Files are identical. There are no mismatches.");
         }
 
-        private static string[] GetLinesWithPossibleMismatches(string[] actualOutputLines, string[] expectedOutputLines, out bool hasMismatches)
+        private string[] GetLinesWithPossibleMismatches(string[] actualOutputLines, string[] expectedOutputLines, out bool hasMismatches)
         {
             hasMismatches = false;
             string output = string.Empty;
@@ -66,7 +67,8 @@ namespace Bash_Soft
             {
                 hasMismatches = true;
                 minOutputLines = Math.Min(actualOutputLines.Length, expectedOutputLines.Length);
-                OutputWriter.DisplayException(ExceptionMessages.ComparisonOfFilesWithDifferentSizes);
+
+                throw new ComparisonOfFilesWithDifferentSizesException();
             }
 
             for (int index = 0; index < minOutputLines; index++)
@@ -91,7 +93,7 @@ namespace Bash_Soft
             return mismatches;
         }
 
-        private static string GetMismathPath(string expectedOutputPath)
+        private string GetMismathPath(string expectedOutputPath)
         {
             int indexOf = expectedOutputPath.LastIndexOf('\\');
             string directoryPath = expectedOutputPath.Substring(0, indexOf);

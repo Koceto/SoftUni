@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using Bash_Soft.Exceptions;
 
 namespace Bash_Soft
 {
     public class IOManager
     {
-        public static void TraverseDirectory(int depth)
+        public void TraverseDirectory(int depth)
         {
             OutputWriter.WriteEmptyLine();
             int initialIdentation = SessionData.currentPath.Split('\\').Length;
@@ -39,14 +40,14 @@ namespace Bash_Soft
                         subFolders.Enqueue(directoryPath);
                     }
                 }
-                catch (UnauthorizedAccessException)
+                catch (System.UnauthorizedAccessException)
                 {
-                    OutputWriter.DisplayException(ExceptionMessages.UnauthorizedAccessExceptionMessage);
+                    throw new System.UnauthorizedAccessException();
                 }
             }
         }
 
-        public static void CreateDirectoryInCurrentFolder(string name)
+        public void CreateDirectoryInCurrentFolder(string name)
         {
             string path = GetCurrentDirectoryPath() + "\\" + name;
 
@@ -56,16 +57,16 @@ namespace Bash_Soft
             }
             catch (ArgumentException)
             {
-                OutputWriter.DisplayException(ExceptionMessages.ForbiddenSymbolsContainedInName);
+                throw new InvalidFileNameException();
             }
         }
 
-        private static string GetCurrentDirectoryPath()
+        private string GetCurrentDirectoryPath()
         {
             return SessionData.currentPath;
         }
 
-        public static void ChangeCurrentDirectoryRelative(string relativePath)
+        public void ChangeCurrentDirectoryRelative(string relativePath)
         {
             if (relativePath == "..")
             {
@@ -78,7 +79,7 @@ namespace Bash_Soft
                 }
                 catch (ArgumentOutOfRangeException)
                 {
-                    OutputWriter.DisplayException(ExceptionMessages.UnableToGoHigherInPartitionHierarchy);
+                    throw new UnableToGoHigherInPartitionHierarchyException();
                 }
             }
             else
@@ -89,12 +90,11 @@ namespace Bash_Soft
             }
         }
 
-        public static void ChangeCurrentDirectoryAbsolute(string currentPath)
+        public void ChangeCurrentDirectoryAbsolute(string currentPath)
         {
             if (!Directory.Exists(currentPath))
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
-                return;
+                throw new InvalidPathException();
             }
 
             SessionData.currentPath = currentPath;
