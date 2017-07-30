@@ -1,34 +1,3 @@
-<style type="text/css">
-a:link    {  
-  text-decoration:  none;
-  font-weight:      bold;
-  background-color: transparent;
-  opacity: 0.5;
-  color:           blue ;
-  } 
-a:visited {
-  text-decoration:  none;
-  font-weight:      bold;
-  background-color: transparent;
-  opacity: 0.5;
-  color:           blue ;
-  } 
-a:hover   {
-  text-decoration:  none;
-  font-weight:      bold;
-  background-color: transparent;
-  opacity: 0.5;
-  color:            blue;
-  } 
-a:active  {
-  text-decoration:  none;
-  font-weight:      bold;
-  background-color: transparent;
-  opacity: 0.5;
-  color: blue;
-  }
-</style>
-
 <h1 style="text-align: center;">Software University&nbsp;Education</h1>
 <h3 style="text-align: center;"><a title="SoftUni" href="http://www.softuni.bg" target="_blank">SoftUni</a></h3>
 <hr />
