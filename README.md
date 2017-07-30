@@ -1,14 +1,13 @@
-<div align="center">
 <h1 style="text-align: center;">Software University&nbsp;Education</h1>
 <h3 style="text-align: center;"><a title="SoftUni" href="http://www.softuni.bg" target="_blank">SoftUni</a></h3>
 <hr />
 <p>&nbsp;</p>
-<table width="100%">
-<tbody align="center" width="100%">
+<table style="height: 473px; border: 1px solid #b8b8b8; border-radius: 4px; margin-left: auto; margin-right: auto;" width="400">
+<tbody>
 <tr>
-<td>
+<td style="text-align: center; background-color: #e0e6f8; border-radius: 10px;">
   <h2><a title="C# OOP Advanced" href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced" target="_blank">C# OOP Advanced:</a></h2>
-<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
+<h2 style="opacity: 0.5;"><strong>18.07.2017 - 20.08.2017</strong></h2>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -53,8 +52,10 @@
 </tr>
 </tbody>
 </table>
-<table align="center" style="height: 473px; border: 1px solid #b8b8b8; border-radius: 4px; margin-left: auto; margin-right: auto;" width="100%">
-<tbody align="center" width="100%">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="height: 473px; border: 1px solid #b8b8b8; border-radius: 4px; margin-left: auto; margin-right: auto;" width="400">
+<tbody>
 <tr>
 <td style="text-align: center; background-color: #e0e6f8; border-radius: 10px;">
 <h2><a title="C# Advanced" href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics" target="_blank">C# OOP Basics:</a></h2>
@@ -90,8 +91,8 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<table align="center" style="height: 473px; border: 1px solid #b8b8b8; border-radius: 4px; margin-left: auto; margin-right: auto;" width="100%">
-<tbody align="center" width="100%">
+<table style="height: 473px; border: 1px solid #b8b8b8; border-radius: 4px; margin-left: auto; margin-right: auto;" width="400">
+<tbody>
 <tr>
 <td style="text-align: center; background-color: #e0e6f8; border-radius: 10px;">
   <h2><a title="C# Advanced" href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced" target="_blank">C# Advanced:</a></h2>
@@ -145,4 +146,3 @@
 </tr>
 </tbody>
 </table>
-</div>
