@@ -53,8 +53,6 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <table align="center" style="height: 473px; border: 1px solid #b8b8b8; border-radius: 4px; margin-left: auto; margin-right: auto;" width="400">
 <tbody align="center" width="400">
 <tr>
