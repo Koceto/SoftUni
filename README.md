@@ -1,4 +1,4 @@
-<center>
+<center>this is centered</center>
 <h1 style="text-align: center;">Software University&nbsp;Education</h1>
 <h3 style="text-align: center;"><a title="SoftUni" href="http://www.softuni.bg" target="_blank">SoftUni</a></h3>
 <hr />
@@ -149,4 +149,3 @@
 </tr>
 </tbody>
 </table>
-</center>
