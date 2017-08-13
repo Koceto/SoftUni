@@ -31,12 +31,24 @@
 	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced" target="_blank">C# Advanced:</a></h2>
 	<h2><strong>23.05.2017 - 25.06.2017</strong></h2>
 </div>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Stacks%20And%20Queues" target="_blank">Stacks and Queues</a></h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Sets%20And%20Dictionaries" target="_blank">Sets and Dictionaries</a></h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Matrices" target="_blank">Matrices</a></h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Streams" target="_blank">Streams</a></h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Manual%20String%20Processing" target="_blank">Manual String Processing</a></h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Regex" target="_blank">Regular Expressions</a></h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Functional%20Programming" target="_blank">Functional Programming</a></h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/LINQ" target="_blank">LINQ</a>&nbsp;</h3>
-<h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3>
+<table>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Stacks%20And%20Queues" target="_blank">Stacks and Queues</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Sets%20And%20Dictionaries" target="_blank">Sets and Dictionaries</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Matrices" target="_blank">Matrices</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Streams" target="_blank">Streams</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Manual%20String%20Processing" target="_blank">Manual String Processing</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Regex" target="_blank">Regular Expressions</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Functional%20Programming" target="_blank">Functional Programming</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/LINQ" target="_blank">LINQ</a>&nbsp;</h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3></td>
+</tr>
+</table>
