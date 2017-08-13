@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Exercise.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Exercise.Fakes.ShimDatabase">
+            <summary>Shim type of Exercise.Database</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimDatabase.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimDatabase.#ctor(Exercise.Database)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.AddInt32String">
+            <summary>Sets the shim of Database.Add(Int32 id, String name)</summary>
+        </member>
+        <member name="T:Exercise.Fakes.ShimDatabase.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.AllInstances.AddInt32String">
+            <summary>Sets the shim of Database.Add(Int32 id, String name)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.AllInstances.CollectionSetIDictionaryOfInt32String">
+            <summary>Sets the shim of Database.set_Collection(IDictionary`2&lt;Int32,String&gt; value)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.AllInstances.FindByIdInt32">
+            <summary>Sets the shim of Database.FindById(Int32 id)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.AllInstances.FindByUsernameString">
+            <summary>Sets the shim of Database.FindByUsername(String username)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.AllInstances.Remove">
+            <summary>Sets the shim of Database.Remove()</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimDatabase.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimDatabase.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.CollectionSetIDictionaryOfInt32String">
+            <summary>Sets the shim of Database.set_Collection(IDictionary`2&lt;Int32,String&gt; value)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.Constructor">
+            <summary>Sets the shim of Database.Database()</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.FindByIdInt32">
+            <summary>Sets the shim of Database.FindById(Int32 id)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.FindByUsernameString">
+            <summary>Sets the shim of Database.FindByUsername(String username)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimDatabase.Remove">
+            <summary>Sets the shim of Database.Remove()</summary>
+        </member>
+        <member name="T:Exercise.Fakes.ShimListIterator">
+            <summary>Shim type of Exercise.ListIterator</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimListIterator.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimListIterator.#ctor(Exercise.ListIterator)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Exercise.Fakes.ShimListIterator.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.AllInstances.CollectionSetIListOfString">
+            <summary>Sets the shim of ListIterator.set_Collection(IList`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.AllInstances.HasNext">
+            <summary>Sets the shim of ListIterator.HasNext()</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.AllInstances.Move">
+            <summary>Sets the shim of ListIterator.Move()</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.AllInstances.Print">
+            <summary>Sets the shim of ListIterator.Print()</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimListIterator.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimListIterator.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.CollectionSetIListOfString">
+            <summary>Sets the shim of ListIterator.set_Collection(IList`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.ConstructorICollectionOfString">
+            <summary>Sets the shim of ListIterator.ListIterator(ICollection`1&lt;String&gt; collection)</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.HasNext">
+            <summary>Sets the shim of ListIterator.HasNext()</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.Move">
+            <summary>Sets the shim of ListIterator.Move()</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimListIterator.Print">
+            <summary>Sets the shim of ListIterator.Print()</summary>
+        </member>
+        <member name="T:Exercise.Fakes.ShimStartUp">
+            <summary>Shim type of Exercise.StartUp</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimStartUp.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimStartUp.#ctor(Exercise.StartUp)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Exercise.Fakes.ShimStartUp.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimStartUp.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Exercise.Fakes.ShimStartUp.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimStartUp.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimStartUp.Constructor">
+            <summary>Sets the shim of StartUp.StartUp()</summary>
+        </member>
+        <member name="P:Exercise.Fakes.ShimStartUp.Main">
+            <summary>Sets the shim of StartUp.Main()</summary>
+        </member>
+        <member name="T:Exercise.Fakes.StubDatabase">
+            <summary>Stub type of Exercise.Database</summary>
+        </member>
+        <member name="M:Exercise.Fakes.StubDatabase.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubDatabase.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Exercise.Fakes.StubDatabase.InitializeStub">
+            <summary>Initializes a new instance of type StubDatabase</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubDatabase.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubDatabase.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Exercise.Fakes.StubListIterator">
+            <summary>Stub type of Exercise.ListIterator</summary>
+        </member>
+        <member name="M:Exercise.Fakes.StubListIterator.#ctor(System.Collections.Generic.ICollection{System.String})">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubListIterator.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Exercise.Fakes.StubListIterator.InitializeStub">
+            <summary>Initializes a new instance of type StubListIterator</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubListIterator.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubListIterator.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Exercise.Fakes.StubStartUp">
+            <summary>Stub type of Exercise.StartUp</summary>
+        </member>
+        <member name="M:Exercise.Fakes.StubStartUp.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubStartUp.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Exercise.Fakes.StubStartUp.InitializeStub">
+            <summary>Initializes a new instance of type StubStartUp</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubStartUp.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Exercise.Fakes.StubStartUp.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
