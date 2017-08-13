@@ -1,72 +1,233 @@
 <div align="center">
-	<h1>Software University Education</h1>
-	<h3><a href="http://www.softuni.bg" target="_blank">SoftUni</a></h3>
-	<hr />
-	<p>&nbsp;</p>
-	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced" target="_blank">C# OOP Advanced:</a></h2>
-	<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
+
+# Software University Education
+
+### [SoftUni](http://www.softuni.bg)
+
+* * *
+
+## [C# OOP Advanced:](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced)
+
+## **18.07.2017 - 20.08.2017**
+
 </div>
-<table width="8">
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction">Interfaces and Abstraction</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Generics">Generics</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Iterators%20and%20Comparators">Iterators and Comparators</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Enumerations%20and%20Attributes">Enumerations and Attributes</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Reflection">Reflection</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Unit%20Testing">Unit Testing</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/SOLID">SOLID</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Object%20Communications%20and%20Events">Object Communication&nbsp;and Events</a></h3></td>
-</tr>
-</table>
-<br />
-<br />
-<div align="center">
-	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics" target="_blank">C# OOP Basics:</a></h2>
-	<h2><strong>27.06.2017 - 16.07.2017</strong></h2>
-</div>
+
 <table width="95%">
+
+<tbody>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Defining%20Classes">Defining Classes</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Encapsulation">Encapsulation</a></h3></td>
+
+<td>
+
+### [Interfaces and Abstraction](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction)
+
+</td>
+
+<td>
+
+### [Generics](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Generics)
+
+</td>
+
 </tr>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Inheritance">Inheritance</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Polymorphism">Polymorphism</a></h3></td>
+
+<td>
+
+### [Iterators and Comparators](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Iterators%20and%20Comparators)
+
+</td>
+
+<td>
+
+### [Enumerations and Attributes](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Enumerations%20and%20Attributes)
+
+</td>
+
 </tr>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3></td>
+
+<td>
+
+### [Reflection](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Reflection)
+
+</td>
+
+<td>
+
+### [Unit Testing](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Unit%20Testing)
+
+</td>
+
 </tr>
+
+<tr>
+
+<td>
+
+### [SOLID](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/SOLID)
+
+</td>
+
+<td>
+
+### [Object Communication and Events](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Object%20Communications%20and%20Events)
+
+</td>
+
+</tr>
+
+</tbody>
+
 </table>
-<br />
-<br />
+
 <div align="center">
-	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced" target="_blank">C# Advanced:</a></h2>
-	<h2><strong>23.05.2017 - 25.06.2017</strong></h2>
+
+## [C# OOP Basics:](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics)
+
+## **27.06.2017 - 16.07.2017**
+
 </div>
+
 <table width="95%">
+
+<tbody>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Stacks%20And%20Queues" target="_blank">Stacks and Queues</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Sets%20And%20Dictionaries" target="_blank">Sets and Dictionaries</a></h3></td>
+
+<td>
+
+### [Defining Classes](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Defining%20Classes)
+
+</td>
+
+<td>
+
+### [Encapsulation](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Encapsulation)
+
+</td>
+
 </tr>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Matrices" target="_blank">Matrices</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Streams" target="_blank">Streams</a></h3></td>
+
+<td>
+
+### [Inheritance](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Inheritance)
+
+</td>
+
+<td>
+
+### [Polymorphism](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Polymorphism)
+
+</td>
+
 </tr>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Manual%20String%20Processing" target="_blank">Manual String Processing</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Regex" target="_blank">Regular Expressions</a></h3></td>
+
+<td>
+
+### [Exam Preparation](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation)
+
+</td>
+
 </tr>
+
+</tbody>
+
+</table>
+
+<div align="center">
+
+## [C# Advanced:](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced)
+
+## **23.05.2017 - 25.06.2017**
+
+</div>
+
+<table width="95%">
+
+<tbody>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Functional%20Programming" target="_blank">Functional Programming</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/LINQ" target="_blank">LINQ</a>&nbsp;</h3></td>
+
+<td>
+
+### [Stacks and Queues](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Stacks%20And%20Queues)
+
+</td>
+
+<td>
+
+### [Sets and Dictionaries](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Sets%20And%20Dictionaries)
+
+</td>
+
 </tr>
+
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3></td>
+
+<td>
+
+### [Matrices](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Matrices)
+
+</td>
+
+<td>
+
+### [Streams](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Streams)
+
+</td>
+
 </tr>
+
+<tr>
+
+<td>
+
+### [Manual String Processing](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Manual%20String%20Processing)
+
+</td>
+
+<td>
+
+### [Regular Expressions](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Regex)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### [Functional Programming](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/Functional%20Programming)
+
+</td>
+
+<td>
+
+### [LINQ](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20Advanced/LINQ) 
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### [Exam Preparation](https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation)
+
+</td>
+
+</tr>
+
+</tbody>
+
 </table>
