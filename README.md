@@ -6,7 +6,7 @@
 	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced" target="_blank">C# OOP Advanced:</a></h2>
 	<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
 </div>
-<table width="788">
+<table width="8">
 <tr>
 <td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction">Interfaces and Abstraction</a></h3></td>
 <td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Generics">Generics</a></h3></td>
