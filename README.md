@@ -2,12 +2,12 @@
 <tr>
 <td colspan="2">
 <div align="center">
-	<h1>Software University Education</h1>
-	<h3><a href="http://www.softuni.bg" target="_blank">SoftUni</a></h3>
-	<hr />
-	<br />
-	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced" target="_blank">C# OOP Advanced:</a></h2>
-	<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
+<h1>Software University Education</h1>
+<h3>This repository contains exercises from the C# Web Developer branch of the <a href="https://softuni.bg/trainings/courses#professional-modules" target="_blank">Professional Modules</a> in <a href="http://www.softuni.bg" target="_blank">Software University</a>. I am uploading solution as I go through the module, currently the repository contains only solutions from <a href="https://softuni.bg/modules/20/csharp-fundamentals" target="_blank">C# Fundamentals</a>. All solutions are designer made.</h3>
+<hr />
+<br />
+<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced" target="_blank">C# OOP Advanced:</a></h2>
+<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
 </div>
 </td>
 </tr>
