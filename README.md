@@ -7,8 +7,8 @@
 	<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
 </div>
 <table width="95%">
-<tr>
-<td><p><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction">Interfaces and Abstraction</a></h3></p></td>
+<tr width="100%">
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction">Interfaces and Abstraction</a></h3></td>
 <td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Generics">Generics</a></h3></td>
 </tr>
 <tr>
