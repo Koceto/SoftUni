@@ -30,10 +30,12 @@
 <br />
 <br />
 <tr>
+</tr>
+<tr>
 <td colspan="2">
 <div align="center">
-	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics" target="_blank">C# OOP Basics:</a></h2>
-	<h2><strong>27.06.2017 - 16.07.2017</strong></h2>
+<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics" target="_blank">C# OOP Basics:</a></h2>
+<h2><strong>27.06.2017 - 16.07.2017</strong></h2>
 </div>
 </td>
 </tr>
