@@ -79,7 +79,6 @@
 <tr>
 <td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3></td>
 </tr>
-</table>
 <tr>
 <td colspan="2">
 <div align="center">
