@@ -83,12 +83,13 @@
 <td colspan="2">
 <div align="center">
 	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals" target="_blank">JavaScript Fundamentals</a></h2>
-	<h2><strong>15.01.2018 - </strong></h2>
+	<h2><strong>15.01.2018 - 11.02.1018</strong></h2>
 </div>
 </td>
 </tr>
 <tr>
 <td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Intro%20to%20JavaScript.js" target="_blank">Intro to JavaScript</a></h3></td>
 <td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Control-Flow%20Logic.js" target="_blank">Control-Flow Logic</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Data%20Types,%20Expressions,%20Statements.js" target="_blank">Data Types, Expressions, Statements</a></h3></td>
 </tr>
 </table>
