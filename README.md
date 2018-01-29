@@ -95,4 +95,8 @@
 <td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Data%20Types,%20Expressions,%20Statements.js" target="_blank">Data Types, Expressions, Statements</a></h3></td>
 <td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Functions%20and%20Arrow%20Functions%20lab.js" target="_blank">Lab: Functions and Arrow Functions</a></h3></td>
 </tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Functions%20and%20Arrow%20Functions%20exercise.js" target="_blank">Exercise: Functions and Arrow Functions</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Arrays%20and%20Matrices%20lab.js" target="_blank">Lab: Arrays and Matrices</a></h3></td>
+</tr>
 </table>
