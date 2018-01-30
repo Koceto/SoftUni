@@ -100,7 +100,7 @@
 <td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Arrays%20and%20Matrices%20lab.js" target="_blank">Lab: Arrays and Matrices</a></h3></td>
 </tr>
 <tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Arrays,%20Matrices,%20Multi-Dimensional%20Arrays%20exercise.js" target="_blank">Exercise: Arrays, Matrices, Multi-Dimensional Arrays</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Arrays,%20Matrices,%20Multi-Dimensional%20Arrays%20exercise.js" target="_blank">Exercise: Arrays and Matrices</a></h3></td>
 <td><h3><a href="" target="_blank"></a></h3></td>
 </tr>
 </table>
