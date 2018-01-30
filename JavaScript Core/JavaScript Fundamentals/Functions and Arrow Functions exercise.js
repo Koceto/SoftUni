@@ -293,5 +293,3 @@ function calculateMinimumDistance(arr){
 
     return getDistance(firstPoint, secondPoint);
 }
-
-console.log(calculateMinimumDistance([0, 0, 2, 0, 4, 0]));
