@@ -68,11 +68,11 @@ In case there is **more than one** longitude or latitude in the text, take the *
 ### Input
 The first argument contains the keyword and the second argument contains the text. There will always be **at least one pair of coordinates**.
 ### Output
-Print the latitude on the first line of the output in the following format:
-**\<degrees>.\<decimal part> N**
-On the second line of the output print the longitude in the following format:
-**\<degrees>.\<decimal part> E**
-On the last line print the message:
+Print the latitude on the first line of the output in the following format:<br />
+**\<degrees>.\<decimal part> N**<br />
+On the second line of the output print the longitude in the following format:<br />
+**\<degrees>.\<decimal part> E**<br />
+On the last line print the message:<br />
 **Message: \<message>**
 
 ---
@@ -80,28 +80,28 @@ On the last line print the message:
 
 > You were able to survive the exams, and now you and your friends from the university have gathered to relax at this year's camp. The bad thing is that the person, responsible for the accommodation of the guests is gone and you can not decide on how to distribute the available rooms. Slowly, anarchy begins to take place among you - the holidaymakers, and it would be a pity to fight like little girls after you have gone through the hardship of the exams. So you decide to take things in your own hands and do the hard job...
 
-You will receive an array of rooms and each room will be an object in the following format:
-**{
-&ensp;&ensp;&ensp;number: String,
-&ensp;&ensp;&ensp;type: String,
-}**
+You will receive an array of rooms and each room will be an object in the following format:<br />
+**{<br />
+&ensp;&ensp;&ensp;number: String,<br />
+&ensp;&ensp;&ensp;type: String,<br />
+}**<br />
 
 The **number** property is the number of the room, **type** is the type of the room: "**double-bedded**" or "**triple**".
-Next comes the data for the guests in an array of objects. Each object from the array holds a pair of people, as shown below:
-**{
- &ensp;&ensp;&ensp;first:
-&ensp;&ensp;&ensp; {
- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;name: String,
- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;gender: String,
- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;age: Number
- &ensp;&ensp;&ensp;},
- &ensp;&ensp;&ensp;second:
-&ensp;&ensp;&ensp; {
- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;name: String,
- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;gender: String,
- &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;age: Number
- &ensp;&ensp;&ensp;}
-}**
+Next comes the data for the guests in an array of objects. Each object from the array holds a pair of people, as shown below:<br />
+**{<br />
+ &ensp;&ensp;&ensp;first:<br />
+&ensp;&ensp;&ensp; {<br />
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;name: String,<br />
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;gender: String,<br />
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;age: Number<br />
+ &ensp;&ensp;&ensp;},<br />
+ &ensp;&ensp;&ensp;second:<br />
+&ensp;&ensp;&ensp; {<br />
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;name: String,<br />
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;gender: String,<br />
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;age: Number<br />
+ &ensp;&ensp;&ensp;}<br />
+}**<br />
 
 The **name** property holds two names – first name and last name of the person, separated by a space. The **gender** property can be one of two values: "**female**" or "**male**".
 
@@ -114,11 +114,11 @@ A couple with guests of the same gender **should be split up** to fill the free 
 For each room, print its number:
 **Room number: \<room number>**
 
-Sort the guests in each room by their name, in **ascending alphabetical** order, then print their names and age:
-**--Guest Name: \<full name>**
-**--Guest Age: \<age>**
+Sort the guests in each room by their name, in **ascending alphabetical** order, then print their names and age:<br />
+**--Guest Name: \<full name>**<br />
+**--Guest Age: \<age>**<br /><br />
 
-Print the number of free beds in each room:
-**Empty beds in the room: \<number of empty beds>**
-The last line from the output should contain the number of people **without a room**, in the following format:
-**Guests moved to the tea house: \<number of people>**
+Print the number of free beds in each room:<br />
+**Empty beds in the room: \<number of empty beds>**<br />
+The last line from the output should contain the number of people **without a room**, in the following format:<br />
+**Guests moved to the tea house: \<number of people>**<br />
