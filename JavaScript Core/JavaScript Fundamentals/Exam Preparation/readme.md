@@ -110,13 +110,13 @@ Accommodation conditions for guests:
 * If the couple is of two people of **the same gender**, they should be accommodated in a **triple** room;
 * If there is **free** space in a **triple** room, it must be filled by a **guest** or **guests** of **the same gender** as the one **already staying** in the room;
 
-A couple with guests of the same gender **should be split up** to fill the free beds in a **triple** room. Sort the rooms by room number in **ascending alphanumeric** order.
-For each room, print its number:
+A couple with guests of the same gender **should be split up** to fill the free beds in a **triple** room. Sort the rooms by room number in **ascending alphanumeric** order.<br />
+For each room, print its number:<br />
 **Room number: \<room number>**
 
 Sort the guests in each room by their name, in **ascending alphabetical** order, then print their names and age:<br />
 **--Guest Name: \<full name>**<br />
-**--Guest Age: \<age>**<br /><br />
+**--Guest Age: \<age>**<br />
 
 Print the number of free beds in each room:<br />
 **Empty beds in the room: \<number of empty beds>**<br />
