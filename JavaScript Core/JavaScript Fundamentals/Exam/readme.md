@@ -39,7 +39,7 @@ You will receive **two arguments**:
 ### Output
 Print on the **console** a **single line**:
 * If there are **polluted blocks** in the map, **use** their **coordinates** in the following format:<br />
-	* **"[{rowIndex}-{columnIndex}]"**		* 
+	* **"[{rowIndex}-{columnIndex}]"**<br />
 Note that you must **start** from the **top left corner** of the map moving to the **bottom right** corner **horizontally**. Then **separate** each **formatted block’s coordinates** with **comma and space** and print them in a single line in the following format:
 	* **"Polluted areas: {block1}, {block2}, {block3}, …"**
 * If there are **no polluted blocks** in the map print:
@@ -48,16 +48,16 @@ Note that you must **start** from the **top left corner** of the map moving to t
 # <div align="center">Survey Parser</div>
 Write a JavaScript program that **parses** a given **document** that may contain the results of a **rating survey** and outputs a **summary** of the votes. You will receive a **string** that contains XML-formatted data. From this data, you must extract a **valid label** and **average rating** (sum of ratings, divided by their count). Input, containing valid survey data will follow these rules:
 * The document may contain **any symbol before and after** the survey data
-* The survey data **always** begins with **\<svg>** and ends with **\</svg>**:
+* The survey data **always** begins with **\<svg>** and ends with **\</svg>**:<br />
 	:	Any text **\<svg>** Survey data **\</svg>** Any text
 * Each valid survey will contain **exactly two sections** beginning with **\<cat>** and ending with **\</cat>**
-* There may be **whitespace between** the sections
+* There may be **whitespace between** the sections<br />
 	: **\<cat>** Survey heading and label **</cat><cat>** Ratings **\</cat>**
-* The contents of the first **cat** section must begin with **\<text>** and end with **\</text>**; it may contain **any text**, but needs to have a **valid label**, inside brackets **[ ]**
+* The contents of the first **cat** section must begin with **\<text>** and end with **\</text>**; it may contain **any text**, but needs to have a **valid label**, inside brackets **[ ]**<br />
 	: **\<text>** Survey heading [ **Survey Label** ]**\</text>**
 * The second **cat** section contains all of the **ratings** with each vote beginning with **\<g>** and ending with **\</g>**
 * A **valid rating** contains a **value** and **count**, with the **value** surrounded by **\<val>** and **\</val>** and the **count** right **after the value**
-* There may be any number of **valid** and **invalid ratings** inside the second cat; you should **only process** the valid ones, and **ignore** the invalid ratings
+* There may be any number of **valid** and **invalid ratings** inside the second cat; you should **only process** the valid ones, and **ignore** the invalid ratings<br />
 	: **\<g>\<val>** Rating value **\</val>** Vote count **\</g>**
 	**Valid** rating: **\<g>\<val>1\</val>0\</g>**
 	**Invalid** rating (**ignore** and continue): **\<g>\<val>Seafood\</val>1\</g>**
@@ -72,11 +72,11 @@ At the **end** of the program, print on the **console** the **label** of the sur
 >Welcome to the Game of Epicness where different kingdoms are fighting for the grant price of a bucket of Bitcoins… EPIC! In this amazing game there are many kingdoms with many generals and every general have their own army. To decide who is the winner for this totally amazing price they fight battles between them. But they are not so awesome at math, so they need you to help them record their battle results.
 
 Write a JavaScript program that **determines** the **winner** from **all battles**. You will receive **two** arguments:
-* The **first** argument is an **array of kingdoms** with **generals** and their **army** in the form of an **object** with format:
+* The **first** argument is an **array of kingdoms** with **generals** and their **army** in the form of an **object** with format:<br />
 	: **{ kingdom: String, general: String, army: Number }**
 
 Every **general** has his own **army** that fights for a certain **kingdom**. Note that, every **kingdom’s name** is **unique**, and every **general’s name** is **unique** in **this kingdom**. If the **general** already **exists in** this **kingdom add** the **army** to his current one. After you go through all the kingdoms with their generals with armies and store the information about them, it’s time to start the battles.
-* The **second** argument is **matrix of strings** showing which **kingdom’s generals** are **fighting** in this format:
+* The **second** argument is **matrix of strings** showing which **kingdom’s generals** are **fighting** in this format:<br />
 **[
 &ensp;&ensp;&ensp;[ "{AttackingKingdom} ", "{AttackingGeneral}", "{DefendingKingdom} ", "DefendingGeneral}" ],
 &ensp;&ensp;&ensp;…
