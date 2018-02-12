@@ -101,6 +101,14 @@
 </tr>
 <tr>
 <td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Arrays,%20Matrices,%20Multi-Dimensional%20Arrays%20exercise.js" target="_blank">Exercise: Arrays and Matrices</a></h3></td>
-<td><h3><a href="" target="_blank"></a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Strings%20and%20Regular%20Expressions%20lab.js" target="_blank">Lab: Strings and Regular Expressions</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Strings%20and%20Regular%20Expressions%20exercise.js" target="_blank">Exercise: Strings and Regular Expressions</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/blob/master/JavaScript%20Core/JavaScript%20Fundamentals/Objects%20and%20Assoc%20Arrays.js" target="_blank">Exercise: Objects and Assoc Arrays</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals/Exam%20Preparation" target="_blank">Exam Preparation</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals/Exam" target="_blank">Exam</a></h3></td>
 </tr>
 </table>
