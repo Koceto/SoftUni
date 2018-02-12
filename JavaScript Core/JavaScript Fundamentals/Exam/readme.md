@@ -4,7 +4,7 @@ started exchanging gold for BGN and buying Bitcoins with the money, and keeping 
 
 Write a JavaScript program that calculates the **total amount** of **bitcoins** you purchased with the gold you mined during your **shift** at the mine. Your shift consists of a certain number of days where you mine an amount of **gold** in **grams**. Your program will receive an **array with the amount of gold** you mined **each day**, where the **first day** of your **shift** is the **first index of the array**. Also, someone was stealing **every third day** from the start of your shift **30%** from the mined **gold** for **this day**.
 For the different exchanges use these prices:
->**1** Bitcoin = **11949.16** lv.
+>**1** Bitcoin = **11949.16** lv.<br />
 **1 g** of gold = **67.51** lv.
 
 ### Input
@@ -48,19 +48,19 @@ Note that you must **start** from the **top left corner** of the map moving to t
 # <div align="center">Survey Parser</div>
 Write a JavaScript program that **parses** a given **document** that may contain the results of a **rating survey** and outputs a **summary** of the votes. You will receive a **string** that contains XML-formatted data. From this data, you must extract a **valid label** and **average rating** (sum of ratings, divided by their count). Input, containing valid survey data will follow these rules:
 * The document may contain **any symbol before and after** the survey data
-* The survey data **always** begins with **\<svg>** and ends with **\</svg>**:<br />
-	:	Any text **\<svg>** Survey data **\</svg>** Any text
+* The survey data **always** begins with **\<svg>** and ends with **\</svg>**:
+** Any text **\<svg>** Survey data **\</svg>** Any text
 * Each valid survey will contain **exactly two sections** beginning with **\<cat>** and ending with **\</cat>**
 * There may be **whitespace between** the sections<br />
-	: **\<cat>** Survey heading and label **</cat><cat>** Ratings **\</cat>**
-* The contents of the first **cat** section must begin with **\<text>** and end with **\</text>**; it may contain **any text**, but needs to have a **valid label**, inside brackets **[ ]**<br />
-	: **\<text>** Survey heading [ **Survey Label** ]**\</text>**
+** **\<cat>** Survey heading and label **</cat><cat>** Ratings **\</cat>**
+* The contents of the first **cat** section must begin with **\<text>** and end with **\</text>**; it may contain **any text**, but needs to have a **valid label**, inside brackets **[ ]**
+** **\<text>** Survey heading [ **Survey Label** ]**\</text>**
 * The second **cat** section contains all of the **ratings** with each vote beginning with **\<g>** and ending with **\</g>**
 * A **valid rating** contains a **value** and **count**, with the **value** surrounded by **\<val>** and **\</val>** and the **count** right **after the value**
-* There may be any number of **valid** and **invalid ratings** inside the second cat; you should **only process** the valid ones, and **ignore** the invalid ratings<br />
-	: **\<g>\<val>** Rating value **\</val>** Vote count **\</g>**
-	**Valid** rating: **\<g>\<val>1\</val>0\</g>**
-	**Invalid** rating (**ignore** and continue): **\<g>\<val>Seafood\</val>1\</g>**
+* There may be any number of **valid** and **invalid ratings** inside the second cat; you should **only process** the valid ones, and **ignore** the invalid ratings
+** **\<g>\<val>** Rating value **\</val>** Vote count **\</g>**
+** **Valid** rating: **\<g>\<val>1\</val>0\</g>**
+** **Invalid** rating (**ignore** and continue): **\<g>\<val>Seafood\</val>1\</g>**
 * The **value** must be a number between **1** and **10**
 * The **count** must be a number **0** or larger
 
@@ -77,9 +77,9 @@ Write a JavaScript program that **determines** the **winner** from **all battles
 
 Every **general** has his own **army** that fights for a certain **kingdom**. Note that, every **kingdom’s name** is **unique**, and every **general’s name** is **unique** in **this kingdom**. If the **general** already **exists in** this **kingdom add** the **army** to his current one. After you go through all the kingdoms with their generals with armies and store the information about them, it’s time to start the battles.
 * The **second** argument is **matrix of strings** showing which **kingdom’s generals** are **fighting** in this format:<br />
-**[
-&ensp;&ensp;&ensp;[ "{AttackingKingdom} ", "{AttackingGeneral}", "{DefendingKingdom} ", "DefendingGeneral}" ],
-&ensp;&ensp;&ensp;…
+**[<br />
+&ensp;&ensp;&ensp;[ "{AttackingKingdom} ", "{AttackingGeneral}", "{DefendingKingdom} ", "DefendingGeneral}" ],<br />
+&ensp;&ensp;&ensp;…<br />
 ]**
 
 The **first two elements** are the **names** of the **attacking general** from certain **kingdom** and the **second two** are the names of the **defending general** from certain **kingdom**. **Compare** the two general’s **armies to determine** who **wins** and who **losses** based on who have the **larger army wins**. The **winner’s army increases** with **10%** and the **loser’s army decreases** with **10%**. Keep in mind to **round** them **down** if there is any **excess army** after the battle. If there is a **draw**, **do not do anything**. **Keep track** of the **wins** and **losses** for every general’s battle.
