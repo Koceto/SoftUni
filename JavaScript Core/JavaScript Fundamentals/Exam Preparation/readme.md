@@ -1,5 +1,5 @@
 
-# <center>The Hungry Programmer</center>
+# <div align="center">The Hungry Programmer</div>
 >*You and your colleagues are on a teambuilding in the mountains. You have reached the closest mountain peak and
 now it is time to refresh with a meal. Unfortunately, the rest house is experiencing staff shortage so a helping hand
 with the serving is needed. You see an opportunity for abundant overeating and lend your help willingly.*
@@ -37,7 +37,7 @@ argument is and array of strings, holding the commands that need to be parsed.*
 **"Meals eaten: {count}"**
 
 ---
-# <center>Expedition</center>
+# <div align="center">Expedition</div>
 
 > You are on an expedition in the mountains but the signs are pointing the wrong way and no one knows how to find you – so you're lost. It is getting dark already and you remember that you have an old map of the surrounding terrain in your backpack. To read it, first you've got to decode it. If you manage to figure out the way back to the rest house, you'll get there safely. Otherwise, you'll have to spend the night in the mountains and, as you know, the night is dark and full of terrors(bears). 
 
@@ -54,7 +54,7 @@ The first line of the output contains the number of steps made from the beginnin
 
 ---
 
-# <center>Lost in the Mountains</center>
+# <div align="center">Lost in the Mountains</div>
 >The expedition is over and everyone has returned successfully to the rest house. It turns out, however, that one from the group has fallen behind. He has sent a message to the leader but his device is broken and his message contains unwanted symbols, which prevent it from being read. Since the leader does not understand anything from programming, he has assigned the task of decrypting to you.
 
 You will receive a text (**string**), which can contain **all of the ASCII symbols**, **including new lines** and **tabs**. The location of the lost person and his message must be retrieved from this string. The text contains a **keyword** that indicates the **beginning** and the **end** of the **message**. The geographical coordinates come as **a pair** of longitude ("**east**") and latitude ("**north**") and each coordinate should meet the following conditions:
@@ -76,7 +76,7 @@ On the last line print the message:
 **Message: \<message>**
 
 ---
-# <center>Rest House</center>
+# <div align="center">Rest House</div>
 
 > You were able to survive the exams, and now you and your friends from the university have gathered to relax at this year's camp. The bad thing is that the person, responsible for the accommodation of the guests is gone and you can not decide on how to distribute the available rooms. Slowly, anarchy begins to take place among you - the holidaymakers, and it would be a pity to fight like little girls after you have gone through the hardship of the exams. So you decide to take things in your own hands and do the hard job...
 
