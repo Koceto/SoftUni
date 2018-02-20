@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Selectable Towns</title>
+    <style>
+        li {
+            display: inline-block;
+            cursor: pointer;
+            padding: 10px;
+        }
+        
+        ul {
+            padding: 0;
+        }
+    </style>
+    <script src="../jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+    <h2>Towns</h2>
+    <ul id="items">
+        <li>Sofia</li>
+        <li>Varna</li>
+        <li>Plovdiv</li>
+        <li>Bourgas</li>
+        <li>Rousse</li>
+    </ul>
+    <button id="showTownsButton">Show Towns</button>
+    <div id="selectedTowns"></div>
+    <script>
+        $(attachEvents())
+
+        function attachEvents() {
+            function selectTown() {
+                console.log($(this).attr('data-selected'));
+                if (!$(this).attr('data-selected')) {
+                    $(this).attr('data-selected', true);
+                    $(this).css('background-color', '#DDD');
+                } else {
+                    $(this).removeAttr('data-selected');
+                    $(this).css('background-color', 'white');
+                }
+            }
+
+            $('#items').find('li').each((i, e) => {
+                $(e).click(selectTown);
+            });
+
+            $('#showTownsButton').click(() => {
+                let selected = [];
+
+                $('#items').find('li').each((i, e) => {
+                    if ($(e).attr('data-selected')) {
+                        selected.push($(e).text());
+                    }
+                });
+
+                $('#selectedTowns').text(selected.join(', '));
+            });
+        }
+    </script>
+</body>
+
+</html>

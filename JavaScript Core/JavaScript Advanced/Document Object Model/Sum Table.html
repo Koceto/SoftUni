@@ -1,0 +1,26 @@
+<table>
+    <tbody>
+        <tr><th>Product</th><th>Cost</th></tr>
+        <tr><td>Beer</td><td>2.88</td></tr>
+        <tr><td>Fries</td><td>2.15</td></tr>
+        <tr><td>Burger</td><td>4.59</td></tr>
+        <tr><td>Total:</td><td id="sum"></td></tr>
+    </tbody>
+</table>
+<button onclick="sum()">Sum</button>
+<script>
+    function sum() {
+        let elements = document.querySelectorAll('td');
+        let result = 0;
+
+        for (const element of elements) {            
+            let price = Number(element.textContent);
+
+            if (price) {
+                result += price;
+            }
+        }
+
+        document.getElementById('sum').textContent = result.toFixed(2);
+    }
+</script> 
