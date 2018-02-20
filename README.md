@@ -88,7 +88,7 @@
 <td colspan="2">
 <div align="center">
 	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals" target="_blank">JavaScript Fundamentals</a></h2>
-	<h2><strong>15.01.2018 - 11.02.1018</strong></h2>
+	<h2><strong>15.01.2018 - 11.02.2018</strong></h2>
 </div>
 </td>
 </tr>
@@ -122,7 +122,7 @@
 <td colspan="2">
 <div align="center">
 	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals" target="_blank">JavaScript Advanced</a></h2>
-	<h2><strong>15.01.2018 - 11.02.1018</strong></h2>
+	<h2><strong>12.02.2018 - 18.03.2018</strong></h2>
 </div>
 </td>
 </tr>
