@@ -6,52 +6,8 @@
 <h3>This repository contains exercises from the C# Web Developer branch of the <a href="https://softuni.bg/trainings/courses#professional-modules" target="_blank">Professional Modules</a> in <a href="http://www.softuni.bg" target="_blank">Software University</a>. I am uploading solution as I go through the module, currently the repository contains solutions from <a href="https://softuni.bg/modules/20/csharp-fundamentals" target="_blank">C# Fundamentals</a> and <a href="https://softuni.bg/modules/26/js-core">JavaScript Core</a>. All solutions are designer made.</h3>
 <hr />
 <br />
-<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced" target="_blank">C# OOP Advanced:</a></h2>
-<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
-</div>
-</td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction">Interfaces and Abstraction</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Generics">Generics</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Iterators%20and%20Comparators">Iterators and Comparators</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Enumerations%20and%20Attributes">Enumerations and Attributes</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Reflection">Reflection</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Unit%20Testing">Unit Testing</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/SOLID">SOLID</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Object%20Communications%20and%20Events">Object Communication&nbsp;and Events</a></h3></td>
-</tr>
-<br />
-<br />
-<tr>
-</tr>
-<tr>
-<td colspan="2">
-<div align="center">
-<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics" target="_blank">C# OOP Basics:</a></h2>
-<h2><strong>27.06.2017 - 16.07.2017</strong></h2>
-</div>
-</td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Defining%20Classes">Defining Classes</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Encapsulation">Encapsulation</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Inheritance">Inheritance</a></h3></td>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Polymorphism">Polymorphism</a></h3></td>
-</tr>
-<tr>
-<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3></td>
-</tr>
-<br />
-<br />
+<tr></tr>
+<!-- Start OF Module -->
 <tr>
 <td colspan="2">
 <div align="center">
@@ -79,6 +35,55 @@
 <tr>
 <td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3></td>
 </tr>
+<!-- Start OF Module -->
+<tr>
+<td colspan="2">
+<div align="center">
+<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics" target="_blank">C# OOP Basics:</a></h2>
+<h2><strong>27.06.2017 - 16.07.2017</strong></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Defining%20Classes">Defining Classes</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Encapsulation">Encapsulation</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Inheritance">Inheritance</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Polymorphism">Polymorphism</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Basics/Exam%20Preparation">Exam Preparation</a></h3></td>
+</tr>
+
+<!-- Start OF Module -->
+<tr>
+<td colspan="2">
+<div align="center">
+<h2><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced" target="_blank">C# OOP Advanced:</a></h2>
+<h2><strong>18.07.2017 - 20.08.2017</strong></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Interfaces%20and%20Abstraction">Interfaces and Abstraction</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Generics">Generics</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Iterators%20and%20Comparators">Iterators and Comparators</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Enumerations%20and%20Attributes">Enumerations and Attributes</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Reflection">Reflection</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Unit%20Testing">Unit Testing</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/SOLID">SOLID</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/C%23%20Fundamentals/C%23%20OOP%20Advanced/Object%20Communications%20and%20Events">Object Communication&nbsp;and Events</a></h3></td>
+</tr>
+<tr>
+</tr>
+<!-- Start OF Module -->
 <tr>
 <td colspan="2">
 <div align="center">
@@ -110,5 +115,23 @@
 <tr>
 <td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals/Exam%20Preparation" target="_blank">Exam Preparation</a></h3></td>
 <td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals/Exam" target="_blank">Exam</a></h3></td>
+</tr>
+<!-- Start OF Module -->
+<tr></tr>
+<tr>
+<td colspan="2">
+<div align="center">
+	<h2><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Fundamentals" target="_blank">JavaScript Advanced</a></h2>
+	<h2><strong>15.01.2018 - 11.02.1018</strong></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Advanced/Document%20Object%20Model" target="_blank">Document Object Model</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Advanced/Lab%20DOM%20Manipulation" target="_blank">Lab: DOM Manipulation</a></h3></td>
+</tr>
+<tr>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Advanced/Exercise%20DOM%20Manipulation" target="_blank">Exercise: DOM Manipulation</a></h3></td>
+<td><h3><a href="https://github.com/Koceto/SoftUni/tree/master/JavaScript%20Core/JavaScript%20Advanced/Lab%20jQuery%20Library" target="_blank">Lab: jQuery Library</a></h3></td>
 </tr>
 </table>
